@@ -1348,3 +1348,15 @@ img {
         opacity: 0 !important;
     }
 }
+
+/* Hide Swiper navigation buttons on mobile */
+@media (max-width: 768px) {
+    .swiper-button-prev,
+    .swiper-button-next,
+    [class*="swiper-button"] {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+    }
+}
