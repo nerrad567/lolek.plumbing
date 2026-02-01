@@ -146,10 +146,10 @@
             panel.style.backgroundImage = `url(${panel.dataset.bg})`;
         });
         
-        // Check if GSAP loaded
-        if (typeof gsap !== 'undefined') {
-            initGSAP();
-        }
+        // DISABLED FOR DEBUGGING - Check if GSAP loaded
+        // if (typeof gsap !== 'undefined') {
+        //     initGSAP();
+        // }
         
         // Check if Swiper loaded
         if (typeof Swiper !== 'undefined') {
