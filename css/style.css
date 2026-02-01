@@ -1194,3 +1194,23 @@ img {
         padding-right: 0;
     }
 }
+
+/* Fix badge position - back to top right corner */
+@media (max-width: 768px) {
+    .top-badges {
+        top: 10px !important;
+        right: 10px !important;
+    }
+    
+    .gas-badge img {
+        width: 60px !important;
+    }
+    
+    .lang-flags {
+        gap: 3px;
+    }
+    
+    .flag-link img {
+        width: 30px !important;
+    }
+}
