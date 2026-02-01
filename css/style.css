@@ -1103,3 +1103,11 @@ img {
         page-break-inside: avoid;
     }
 }
+
+/* DEBUG: Force text visibility */
+.panel-home .hero-text *,
+.panel-home .feature-slide * {
+    color: black !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+}
