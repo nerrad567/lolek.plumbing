@@ -212,6 +212,11 @@ img {
     perspective: 1000px;
 }
 
+/* Ensure home panel content is visible even before JS runs */
+.panel-home .panel-content {
+    opacity: 1;
+}
+
 /* ===== PANEL: HOME ===== */
 .panel-home {
     background-color: #2d3a4b;
