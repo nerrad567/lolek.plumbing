@@ -1162,3 +1162,35 @@ img {
 .panel-home .panel-content {
     opacity: 1;
 }
+
+/* ===== MOBILE FIXES ===== */
+@media (max-width: 768px) {
+    /* Move Gas Safe badge down to not cover tagline */
+    .top-badges {
+        top: 80px;
+    }
+    
+    .gas-badge img {
+        width: 70px;
+        height: auto;
+    }
+    
+    /* Fix feature card text colors */
+    .feature-slide {
+        background: linear-gradient(135deg, rgba(52, 152, 219, 0.3) 0%, rgba(52, 152, 219, 0.15) 100%);
+        border: 1px solid rgba(52, 152, 219, 0.4);
+    }
+    
+    .feature-slide-text h3 {
+        color: #3498db;
+    }
+    
+    .feature-slide-text p {
+        color: rgba(255, 255, 255, 0.85);
+    }
+    
+    /* Tagline needs more space from badge */
+    .tagline {
+        padding-right: 0;
+    }
+}
