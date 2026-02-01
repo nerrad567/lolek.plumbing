@@ -1075,20 +1075,21 @@ img {
     }
     
     .panel-about .feature-list {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
         text-align: left;
-        margin: 15px 0;
-        max-width: none;
+        margin: 15px auto !important;
+        max-width: fit-content !important;
         padding-left: 0;
     }
     
     .panel-about .feature-list li {
         font-size: 0.9rem;
-        padding-left: 25px;
+        padding-left: 28px;
         margin-bottom: 8px;
         width: auto;
+        text-align: left;
     }
     
     .panel-about .stats-row {
