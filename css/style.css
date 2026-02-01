@@ -1365,13 +1365,14 @@ img {
 @media (max-width: 768px) {
     .reviews-section {
         padding: 0;
-        margin-left: 60px;
-        margin-right: 25px;
+        margin-left: 10px;
+        margin-right: 15px;
     }
     
     .reviews-section h3 {
         margin-bottom: 12px;
         font-size: 1.1rem;
+        padding-left: 5px;
     }
     
     .reviews-swiper {
@@ -1384,8 +1385,8 @@ img {
     }
     
     .reviews-swiper .swiper-slide {
-        flex: 0 0 calc(100vw - 160px) !important;
-        width: calc(100vw - 160px) !important;
+        flex: 0 0 calc(100vw - 100px) !important;
+        width: calc(100vw - 100px) !important;
     }
     
     /* Review card styling */
