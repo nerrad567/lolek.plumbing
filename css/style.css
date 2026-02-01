@@ -1146,3 +1146,27 @@ html, body {
     will-change: transform;
     backface-visibility: hidden;
 }
+
+/* Mobile: Replace swiper with static grid */
+@media (max-width: 768px) {
+    .features-swiper .swiper-wrapper {
+        display: flex !important;
+        flex-direction: column !important;
+        gap: 15px !important;
+        transform: none !important;
+    }
+    
+    .features-swiper .swiper-slide {
+        width: 100% !important;
+        flex-shrink: 0 !important;
+    }
+    
+    .features-pagination {
+        display: none !important;
+    }
+    
+    /* Only show first 3 features on mobile */
+    .features-swiper .swiper-slide:nth-child(n+4) {
+        display: none !important;
+    }
+}
