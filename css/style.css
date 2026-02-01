@@ -1288,3 +1288,35 @@ img {
         margin-right: -20px;
     }
 }
+
+/* ===== MORE MOBILE FIXES ===== */
+@media (max-width: 768px) {
+    /* Add left padding to prevent scrolling behind nav */
+    .project-swiper,
+    .reviews-swiper {
+        padding-left: 70px !important;
+        margin-left: 0 !important;
+    }
+    
+    /* Hide Swiper pagination dots on mobile */
+    .swiper-pagination {
+        display: none !important;
+    }
+    
+    /* Projects panel - more breathing room */
+    #work .panel-content {
+        padding-left: 10px;
+    }
+    
+    /* Card sizing adjustments */
+    .project-swiper .swiper-slide {
+        flex: 0 0 70vw !important;
+        width: 70vw !important;
+    }
+    
+    /* Hide project card overlay/caption background on mobile */
+    .project-card {
+        border-radius: 12px;
+        overflow: hidden;
+    }
+}
