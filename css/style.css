@@ -218,17 +218,28 @@ img {
     transform: none !important;
 }
 
+.panel-home .panel-content,
 .panel-home .hero-text,
 .panel-home .home-grid,
+.panel-home .home-grid-no-image,
 .panel-home .features-carousel-box,
 .panel-home .feature-slide {
     opacity: 1 !important;
     visibility: visible !important;
+}
+
+.panel-home .hero-text,
+.panel-home .tagline,
+.panel-home .subtitle,
+.panel-home .desc,
+.panel-home .cta-group,
+.panel-home .phone-number {
     display: block !important;
 }
 
-.panel-home .home-grid {
-    display: grid !important;
+.panel-home .home-grid,
+.panel-home .home-grid-no-image {
+    display: block !important;
 }
 
 .panel-home .feature-slide {
