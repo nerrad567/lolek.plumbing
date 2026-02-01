@@ -1,0 +1,3019 @@
+<!DOCTYPE html>
+<html class="no-js " lang="en">
+
+<head>
+  <meta charset="utf-8">
+<title>Oops! | Worcester Bosch</title>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<meta name="keywords" content="central heating boilers, combi boilers, gas boilers, oil boilers, gas central heating, heating engineers, boiler installation, boiler repair">
+<meta name="description" content="Worcester Bosch is dedicated to delivering homes with efficient heating systems. A-rated Greenstar condensing boilers and renewable energy products.">
+<meta name="theme-color" content="#1b2a55">
+
+<link rel="apple-touch-icon" href="https://www.worcester-bosch.co.uk/img/icons/apple-touch-icon-iphone.png">
+<link rel="apple-touch-icon" href="https://www.worcester-bosch.co.uk/img/icons/apple-touch-icon-precomposed.png">
+
+<link rel="preconnect" href="https://cdn.bc0a.com">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://worcesterbosch.resultspage.com">
+<link rel="preconnect" href="https://static.hotjar.com">
+<link rel="preconnect" href="https://platform.twitter.com">
+<link rel="preconnect" href="https://connect.facebook.net">
+<link rel="preconnect" href="https://snap.licdn.com">
+<link rel="preconnect" href="https://BOSCH11113.pcapredict.com">
+
+<!-- Facebook meta data for sharing https://ogp.me/ -->
+
+<meta property="og:title" content="Oops! | Worcester Bosch"/>
+<meta property="og:url" content="https://www.worcester-bosch.co.uk/cdn/images/products/boilers/greenstar-4000/greenstar-4000-front.png"/>
+
+<!-- Stop certain browsers seeing non telephone numbers as telephone numbers -->
+<meta name="format-detection" content="telephone=no">
+
+
+
+
+
+<link rel="stylesheet" href="/css/app-latest.min.bbb1feaa.css">
+<link rel="stylesheet" href="/css/v2-latest.min.css">
+<link rel="stylesheet" href="/css/main.css">
+
+<script type='text/javascript' src='//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js' async></script>
+
+<link rel="stylesheet" href="/bosch-privacy-settings-v2.min.css">
+
+
+<script>!function (e, n, t) {
+    function r (e, n) {
+      return typeof e === n
+    }
+
+    function s () {
+      var e, n, t, s, o, i, a;
+      for (var l in w) if (w.hasOwnProperty(l)) {
+        if (e = [], n = w[l], n.name && (e.push(n.name.toLowerCase()), n.options && n.options.aliases && n.options.aliases.length)) for (t = 0; t < n.options.aliases.length; t++) e.push(n.options.aliases[t].toLowerCase());
+        for (s = r(n.fn, "function") ? n.fn() : n.fn, o = 0; o < e.length; o++) i = e[o], a = i.split("."), 1 === a.length ? Modernizr[a[0]] = s : (!Modernizr[a[0]] || Modernizr[a[0]] instanceof Boolean || (Modernizr[a[0]] = Boolean(Modernizr[a[0]])), Modernizr[a[0]][a[1]] = s), y.push((s ? "" : "no-") + a.join("-"))
+      }
+    }
+
+    function o (e) {
+      var n = S.className, t = Modernizr._config.classPrefix || "";
+      if (x && (n = n.baseVal), Modernizr._config.enableJSClass) {
+        var r = new RegExp("(^|\\s)" + t + "no-js(\\s|$)");
+        n = n.replace(r, "$1" + t + "js$2")
+      }
+      Modernizr._config.enableClasses && (n += " " + t + e.join(" " + t), x ? S.className.baseVal = n : S.className = n)
+    }
+
+    function i (e, n) {
+      return !!~("" + e).indexOf(n)
+    }
+
+    function a () {
+      return "function" != typeof n.createElement ? n.createElement(arguments[0]) : x ? n.createElementNS.call(n, "http://www.w3.org/2000/svg", arguments[0]) : n.createElement.apply(n, arguments)
+    }
+
+    function l (e) {
+      return e.replace(/([a-z])-([a-z])/g, function (e, n, t) {
+        return n + t.toUpperCase()
+      }).replace(/^-/, "")
+    }
+
+    function f (e, n) {
+      return function () {
+        return e.apply(n, arguments)
+      }
+    }
+
+    function u (e, n, t) {
+      var s;
+      for (var o in e) if (e[o] in n) return t === !1 ? e[o] : (s = n[e[o]], r(s, "function") ? f(s, t || n) : s);
+      return !1
+    }
+
+    function d (e) {
+      return e.replace(/([A-Z])/g, function (e, n) {
+        return "-" + n.toLowerCase()
+      }).replace(/^ms-/, "-ms-")
+    }
+
+    function c () {
+      var e = n.body;
+      return e || (e = a(x ? "svg" : "body"), e.fake = !0), e
+    }
+
+    function p (e, t, r, s) {
+      var o, i, l, f, u = "modernizr", d = a("div"), p = c();
+      if (parseInt(r, 10)) for (; r--;) l = a("div"), l.id = s ? s[r] : u + (r + 1), d.appendChild(l);
+      return o = a("style"), o.type = "text/css", o.id = "s" + u, (p.fake ? p : d).appendChild(o), p.appendChild(d), o.styleSheet ? o.styleSheet.cssText = e : o.appendChild(n.createTextNode(e)), d.id = u, p.fake && (p.style.background = "", p.style.overflow = "hidden", f = S.style.overflow, S.style.overflow = "hidden", S.appendChild(p)), i = t(d, e), p.fake ? (p.parentNode.removeChild(p), S.style.overflow = f, S.offsetHeight) : d.parentNode.removeChild(d), !!i
+    }
+
+    function m (n, r) {
+      var s = n.length;
+      if ("CSS" in e && "supports" in e.CSS) {
+        for (; s--;) if (e.CSS.supports(d(n[s]), r)) return !0;
+        return !1
+      }
+      if ("CSSSupportsRule" in e) {
+        for (var o = []; s--;) o.push("(" + d(n[s]) + ":" + r + ")");
+        return o = o.join(" or "), p("@supports (" + o + ") { #modernizr { position: absolute; } }", function (e) {
+          return "absolute" == getComputedStyle(e, null).position
+        })
+      }
+      return t
+    }
+
+    function v (e, n, s, o) {
+      function f () {
+        d && (delete N.style, delete N.modElem)
+      }
+
+      if (o = r(o, "undefined") ? !1 : o, !r(s, "undefined")) {
+        var u = m(e, s);
+        if (!r(u, "undefined")) return u
+      }
+      for (var d, c, p, v, g, h = ["modernizr", "tspan"]; !N.style;) d = !0, N.modElem = a(h.shift()), N.style = N.modElem.style;
+      for (p = e.length, c = 0; p > c; c++) if (v = e[c], g = N.style[v], i(v, "-") && (v = l(v)), N.style[v] !== t) {
+        if (o || r(s, "undefined")) return f(), "pfx" == n ? v : !0;
+        try {
+          N.style[v] = s
+        } catch (y) {
+        }
+        if (N.style[v] != g) return f(), "pfx" == n ? v : !0
+      }
+      return f(), !1
+    }
+
+    function g (e, n, t, s, o) {
+      var i = e.charAt(0).toUpperCase() + e.slice(1), a = (e + " " + b.join(i + " ") + i).split(" ");
+      return r(n, "string") || r(n, "undefined") ? v(a, n, s, o) : (a = (e + " " + E.join(i + " ") + i).split(" "), u(a, n, t))
+    }
+
+    function h (e, n, r) {
+      return g(e, t, t, n, r)
+    }
+
+    var y = [], w = [], C = {
+      _version: "3.3.1",
+      _config: {classPrefix: "", enableClasses: !0, enableJSClass: !0, usePrefixes: !0},
+      _q: [],
+      on: function (e, n) {
+        var t = this;
+        setTimeout(function () {
+          n(t[e])
+        }, 0)
+      },
+      addTest: function (e, n, t) {
+        w.push({name: e, fn: n, options: t})
+      },
+      addAsyncTest: function (e) {
+        w.push({name: null, fn: e})
+      }
+    }, Modernizr = function () {
+    };
+    Modernizr.prototype = C, Modernizr = new Modernizr, Modernizr.addTest("svg", !!n.createElementNS && !!n.createElementNS("http://www.w3.org/2000/svg", "svg").createSVGRect);
+    var S = n.documentElement, x = "svg" === S.nodeName.toLowerCase(), _ = "Moz O ms Webkit",
+      b = C._config.usePrefixes ? _.split(" ") : [];
+    C._cssomPrefixes = b;
+    var E = C._config.usePrefixes ? _.toLowerCase().split(" ") : [];
+    C._domPrefixes = E;
+    var z = {elem: a("modernizr")};
+    Modernizr._q.push(function () {
+      delete z.elem
+    });
+    var N = {style: z.elem.style};
+    Modernizr._q.unshift(function () {
+      delete N.style
+    }), C.testAllProps = g, C.testAllProps = h, Modernizr.addTest("backgroundsize", h("backgroundSize", "100%", !0)), Modernizr.addTest("flexbox", h("flexBasis", "1px", !0)), s(), o(y), delete C.addTest, delete C.addAsyncTest;
+    for (var P = 0; P < Modernizr._q.length; P++) Modernizr._q[P]();
+    e.Modernizr = Modernizr
+  }(window, document);</script>
+<!-- Defer script to defer Javascript to the footer -->
+<script>var defer = function () {
+    var b = [], c = function (a) {
+      return b.push(a)
+    };
+    c.queue = b;
+    c.resolve = function () {
+      for (var a = 0; a < b.length; a++) b[a]()
+    };
+    return c
+  }();</script>
+
+<!--BE IXF: JavaScript begin-->
+<!--Access to and use of BrightEdge AutoPilot - Self Connecting Pages is governed by the
+Infrastructure Product Terms located at: www.brightedge.com/infrastructure-product-terms.
+Customer acknowledges and agrees it has read, understands and agrees to be bound by the
+Infrastructure Product Terms. -->
+<script src="//cdn.bc0a.com/autopilot/f00000000313597/autopilot_sdk.js"></script>
+<!--BE IXF: JavaScript end-->
+
+<script type="module" src="https://dock.ui.bosch.tech/releases/4-latest/build/dock-privacy-settings.esm.js"></script>
+<script nomodule="" src="https://dock.ui.bosch.tech/releases/4-latest/build/dock-privacy-settings.js"></script>
+<script src="/js/cookie.js"></script>
+
+<script>
+  function BoschPrivacyCallback_OnUpdate (consents) {
+    setScriptTag(consents)
+
+    if (!consents.marketing) {
+      clearMarketingCookies()
+      window.pushDataLayer({
+        event: 'bosch_privacy_update_marketing_off',
+      })
+    } else {
+      window.pushDataLayer({
+        event: 'bosch_privacy_update_marketing_on',
+      })
+    }
+  }
+
+  const rootDomain = () => {
+    const domainURL = 'www.worcester-bosch.co.uk'
+    const appENV = 'production'
+
+    if (appENV === 'development') {
+      return '.' + domainURL.split('.').slice(-2).join('.')
+    }
+
+    return '.' + domainURL.split('.').slice(-3).join('.')
+  }
+
+  function clearMarketingCookies () {
+    const fixedMarketingCookies = ['_ga', '_gid', '_gat', '_gcl_au', '_fbp', '_hjFirstSeen', '_hjAbsoluteSessionInProgress', '_hjIncludedInPageviewSample']
+    const dynamicMarketingCookies = ['_ga_', '_hjSessionUser_', '_hjSession_', '_hjIncludedInSessionSample_']
+    const cookies = Cookies.get()
+
+    let names = Object.keys(cookies)
+
+    names.forEach((name) => {
+      if (fixedMarketingCookies.includes(name)) {
+        removeCookie(name)
+      }
+
+      dynamicMarketingCookies.forEach((cookie) => {
+        if (name.startsWith(cookie)) {
+          removeCookie(name)
+        }
+      })
+    })
+  }
+
+  function removeCookie (name) {
+    Cookies.remove(name, { domain: rootDomain() })
+    Cookies.remove(name, { path: '' })
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    let attempts = 0
+    const maxAttempts = 100 // 10 seconds max (100 * 100ms)
+
+    const tryAttachListener = () => {
+      if (!dockPrivacySettings) {
+        dockPrivacySettings = document.querySelector('dock-privacy-settings')
+      }
+
+      if (dockPrivacySettings) {
+        dockPrivacySettings.addEventListener('click', (event) => {
+          let hasButton = false
+          let path = event.composedPath()
+          for (let i = 0; i < path.length; i++) {
+            if (path[i].tagName === 'BBG-BUTTON') {
+              hasButton = true
+            }
+          }
+
+          if (!hasButton) return
+          if (typeof window.ga !== 'function') return
+
+          if (dockPrivacySettings.consents.marketing) {
+            window.pushDataLayer({
+              event: 'cookieManager',
+              action: 'click',
+              label: 'Accept',
+            })
+          } else {
+            window.pushDataLayer({
+              event: 'cookieManager',
+              action: 'click',
+              label: 'Reject',
+            })
+          }
+        }, false)
+      } else if (attempts < maxAttempts) {
+        attempts++
+        setTimeout(tryAttachListener, 100)
+      } else {
+        console.warn('Cookie manager: dock-privacy-settings element not found after 10 seconds')
+      }
+    }
+
+    tryAttachListener()
+  }, false)
+</script>
+<!-- Google Tag Manager -->
+<script type="text/javascript" data-script-area="head">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-PWMDPZC');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+  window.pushDataLayer = function() {
+    try {
+      window.dataLayer = window.dataLayer || []
+      window.dataLayer.push(...arguments)
+    } catch (err) {
+      console.warn('Consent to analysis cookies not given!');
+    }
+  }
+</script>
+<script type="text/plain" data-bosch-privacy-consent="marketing" data-script-area="head">
+    (function(h,o,t,j,a,r){
+      h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+      h._hjSettings={hjid:262552,hjsv:6};
+      a=o.getElementsByTagName('head')[0];
+      r=o.createElement('script');r.async=1;
+      r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+      a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+  </script>
+<script>(function(n,t,i,r){var u,f;n[i]=n[i]||{},n[i].initial={accountCode:"BOSCH11113",host:"BOSCH11113.pcapredict.com"},n[i].on=n[i].on||function(){(n[i].onq=n[i].onq||[]).push(arguments)},u=t.createElement("script"),u.async=!0,u.src=r,f=t.getElementsByTagName("script")[0],f.parentNode.insertBefore(u,f)})(window,document,"pca","//BOSCH11113.pcapredict.com/js/sensor.min.js")</script>
+<!-- SLI Search Tracking -->
+    <script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i[r]=i[r]||function(){
+            (i[r].a=i[r].a||[]).push(arguments)};i[r].t=1;a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://worcesterbosch.resultspage.com/js/sli-spark.js', 'sliSpark');
+
+        sliSpark('sli:setBeaconUserId', 'zp6TzocWsrTrzQNQBILk9Q0dIB2toBn');
+        sliSpark('sli:setPageId', '1769943738');
+
+        sliSpark('send', 'pageview');
+    </script>
+<!-- End SLI Search Tracking -->
+<!-- Start VWO Async SmartCode -->
+    <link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com" />
+    <script type='text/javascript' id='vwoCode'>
+    window._vwo_code ||
+    (function () {
+    var w=window,
+    d=document;
+    var account_id=274940,
+    version=2.2,
+    settings_tolerance=2000,
+    hide_element='body',
+    hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important';
+    /* DO NOT EDIT BELOW THIS LINE */
+    if(f=!1,v=d.querySelector('#vwoCode'),cc={},-1<d.URL.indexOf('__vwo_disable__')||w._vwo_code)return;try{var e=JSON.parse(localStorage.getItem('_vwo_'+account_id+'_config'));cc=e&&'object'==typeof e?e:{}}catch(e){}function r(t){try{return decodeURIComponent(t)}catch(e){return t}}var s=function(){var e={combination:[],combinationChoose:[],split:[],exclude:[],uuid:null,consent:null,optOut:null},t=d.cookie||'';if(!t)return e;for(var n,i,o=/(?:^|;\s*)(?:(_vis_opt_exp_(\d+)_combi=([^;]*))|(_vis_opt_exp_(\d+)_combi_choose=([^;]*))|(_vis_opt_exp_(\d+)_split=([^:;]*))|(_vis_opt_exp_(\d+)_exclude=[^;]*)|(_vis_opt_out=([^;]*))|(_vwo_global_opt_out=[^;]*)|(_vwo_uuid=([^;]*))|(_vwo_consent=([^;]*)))/g;null!==(n=o.exec(t));)try{n[1]?e.combination.push({id:n[2],value:r(n[3])}):n[4]?e.combinationChoose.push({id:n[5],value:r(n[6])}):n[7]?e.split.push({id:n[8],value:r(n[9])}):n[10]?e.exclude.push({id:n[11]}):n[12]?e.optOut=r(n[13]):n[14]?e.optOut=!0:n[15]?e.uuid=r(n[16]):n[17]&&(i=r(n[18]),e.consent=i&&3<=i.length?i.substring(0,3):null)}catch(e){}return e}();function i(){var e=function(){if(w.VWO&&Array.isArray(w.VWO))for(var e=0;e<w.VWO.length;e++){var t=w.VWO[e];if(Array.isArray(t)&&('setVisitorId'===t[0]||'setSessionId'===t[0]))return!0}return!1}(),t='a='+account_id+'&u='+encodeURIComponent(w._vis_opt_url||d.URL)+'&vn='+version+'&ph=1'+('undefined'!=typeof platform?'&p='+platform:'')+'&st='+w.performance.now();e||((n=function(){var e,t=[],n={},i=w.VWO&&w.VWO.appliedCampaigns||{};for(e in i){var o=i[e]&&i[e].v;o&&(t.push(e+'-'+o+'-1'),n[e]=!0)}if(s&&s.combination)for(var r=0;r<s.combination.length;r++){var a=s.combination[r];n[a.id]||t.push(a.id+'-'+a.value)}return t.join('|')}())&&(t+='&c='+n),(n=function(){var e=[],t={};if(s&&s.combinationChoose)for(var n=0;n<s.combinationChoose.length;n++){var i=s.combinationChoose[n];e.push(i.id+'-'+i.value),t[i.id]=!0}if(s&&s.split)for(var o=0;o<s.split.length;o++)t[(i=s.split[o]).id]||e.push(i.id+'-'+i.value);return e.join('|')}())&&(t+='&cc='+n),(n=function(){var e={},t=[];if(w.VWO&&Array.isArray(w.VWO))for(var n=0;n<w.VWO.length;n++){var i=w.VWO[n];if(Array.isArray(i)&&'setVariation'===i[0]&&i[1]&&Array.isArray(i[1]))for(var o=0;o<i[1].length;o++){var r,a=i[1][o];a&&'object'==typeof a&&(r=a.e,a=a.v,r&&a&&(e[r]=a))}}for(r in e)t.push(r+'-'+e[r]);return t.join('|')}())&&(t+='&sv='+n)),s&&s.optOut&&(t+='&o='+s.optOut);var n=function(){var e=[],t={};if(s&&s.exclude)for(var n=0;n<s.exclude.length;n++){var i=s.exclude[n];t[i.id]||(e.push(i.id),t[i.id]=!0)}return e.join('|')}();return n&&(t+='&e='+n),s&&s.uuid&&(t+='&id='+s.uuid),s&&s.consent&&(t+='&consent='+s.consent),w.name&&-1<w.name.indexOf('_vis_preview')&&(t+='&pM=true'),w.VWO&&w.VWO.ed&&(t+='&ed='+w.VWO.ed),t}code={nonce:v&&v.nonce,library_tolerance:function(){return'undefined'!=typeof library_tolerance?library_tolerance:void 0},settings_tolerance:function(){return cc.sT||settings_tolerance},hide_element_style:function(){return'{'+(cc.hES||hide_element_style)+'}'},hide_element:function(){return performance.getEntriesByName('first-contentful-paint')[0]?'':'string'==typeof cc.hE?cc.hE:hide_element},getVersion:function(){return version},finish:function(e){var t;f||(f=!0,(t=d.getElementById('_vis_opt_path_hides'))&&t.parentNode.removeChild(t),e&&((new Image).src='https://dev.visualwebsiteoptimizer.com/ee.gif?a='+account_id+e))},finished:function(){return f},addScript:function(e){var t=d.createElement('script');t.type='text/javascript',e.src?t.src=e.src:t.text=e.text,v&&t.setAttribute('nonce',v.nonce),d.getElementsByTagName('head')[0].appendChild(t)},load:function(e,t){t=t||{};var n=new XMLHttpRequest;n.open('GET',e,!0),n.withCredentials=!t.dSC,n.responseType=t.responseType||'text',n.onload=function(){if(t.onloadCb)return t.onloadCb(n,e);200===n.status?_vwo_code.addScript({text:n.responseText}):_vwo_code.finish('&e=loading_failure:'+e)},n.onerror=function(){if(t.onerrorCb)return t.onerrorCb(e);_vwo_code.finish('&e=loading_failure:'+e)},n.send()},init:function(){var e,t=this.settings_tolerance();w._vwo_settings_timer=setTimeout(function(){_vwo_code.finish()},t),'body'!==this.hide_element()?(n=d.createElement('style'),e=(t=this.hide_element())?t+this.hide_element_style():'',t=d.getElementsByTagName('head')[0],n.setAttribute('id','_vis_opt_path_hides'),v&&n.setAttribute('nonce',v.nonce),n.setAttribute('type','text/css'),n.styleSheet?n.styleSheet.cssText=e:n.appendChild(d.createTextNode(e)),t.appendChild(n)):(n=d.getElementsByTagName('head')[0],(e=d.createElement('div')).style.cssText='z-index: 2147483647 !important;position: fixed !important;left: 0 !important;top: 0 !important;width: 100% !important;height: 100% !important;background: white !important;',e.setAttribute('id','_vis_opt_path_hides'),e.classList.add('_vis_hide_layer'),n.parentNode.insertBefore(e,n.nextSibling));var n='https://dev.visualwebsiteoptimizer.com/j.php?'+i();-1!==w.location.search.indexOf('_vwo_xhr')?this.addScript({src:n}):this.load(n+'&x=true',{l:1})}};w._vwo_code=code;code.init();})();
+    </script>
+    <!-- End VWO Async SmartCode -->
+<script>
+  if(!window._genesys)window._genesys = {};
+  if(!window._gt)window._gt = [];
+
+  window._genesys.widgets = {
+    main: {
+      theme: 'light',
+      lang: "en",
+      i18n: "/js/genesys/i18n/widgets-en.i18n.json",
+      userLanguage: "en",
+      userCountry: "UK",
+      debug: false,
+    },
+    webchat: {
+      emojis: true,
+      uploadsEnabled: true,
+      userData: {
+        firstName: '',
+        lastName: '',
+        email: '',
+        user_id: '',
+      },
+      form: {
+        wrapper: "<table></table>",
+        inputs: [
+          {
+            id: "cx_webchat_form_firstname",
+            name: "firstname",
+            maxlength: "100",
+            placeholder: "@i18n:webchat.ChatFormPlaceholderFirstName",
+            label: "@i18n:webchat.ChatFormFirstName",
+            // autocomplete: "off",
+            validateWhileTyping: true, // default is false
+            validate: function (event, form, input, label, $, CXBus, Common) {
+              if (input && input.val()) {
+                return true;
+              } else {
+                return false;
+              }
+            }
+          },
+          {
+            id: "cx_webchat_form_lastname",
+            name: "lastname",
+            maxlength: "100",
+            placeholder: "@i18n:webchat.ChatFormPlaceholderLastName",
+            label: "@i18n:webchat.ChatFormLastName",
+            // autocomplete: "off",
+            validateWhileTyping: true, // default is false
+            validate: function (event, form, input, label, $, CXBus, Common) {
+              if (input && input.val()) {
+                return true;
+              } else {
+                return false;
+              }
+            }
+          },
+          {
+            id: "cx_webchat_form_email",
+            name: "email",
+            maxlength: "100",
+            placeholder: "@i18n:webchat.ChatFormPlaceholderEmail",
+            label: "@i18n:webchat.ChatFormEmail",
+            // autocomplete: "off",
+            required: true,
+            validateWhileTyping: true, // default is false
+            validate: function (event, form, input, label, $, CXBus, Common) {
+              let mailRegEx = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+              if (input && input.val() && mailRegEx.test(input.val())) {
+                return true;
+              } else {
+                return false;
+              }
+            }
+          },
+          {
+            id: "cx_webchat_form_subject",
+            name: "subject",
+            maxlength: "100",
+            placeholder: "@i18n:webchat.ChatFormPlaceholderSubject",
+            label: "@i18n:webchat.ChatFormSubject",
+            autocomplete: "off"
+          }
+        ]
+      },
+      chatButton: {
+        enabled: true,
+        openDelay: 50,
+        effectDuration: 100,
+        hideDuringInvite: true
+      },
+      chatCountEnabled: true,
+      dataURL: 'https://cx.bosch-so.com/hcgb-chat',
+    },
+  };
+
+  </script>
+
+
+<style>
+  .cx-widget .cx-side-button-group { top: auto; bottom: 60px; right: 20px; transform: none; margin-left: 0;}
+  .cx-widget .cx-side-button-group .cx-svg-icon-tone1 { fill: #ffffff !important; }
+  .cx-widget .cx-webchat-chat-button.cx-side-button { border-radius: 50%; padding: 15px !important; height: 55px; width: 55px; background-color: #005691; box-shadow: 0 2px 15px 0 rgba(0, 0, 0, 0.3); margin-left: 0; display: flex; align-items: center; justify-content: center; }
+  .cx-widget .cx-webchat-chat-button.cx-side-button .cx-icon { margin: 0; }
+  .cx-widget .cx-webchat-chat-button.cx-side-button .cx-chat-button-label { display: none; }
+  .cx-widget .cx-webchat-chat-button.cx-side-button:hover { background-color: #006a9b; }
+  .cx-webchat.cx-theme-light .cx-message.cx-them .cx-bubble {background-color: #005691 !important;; color: #FFF !important;; }
+  .cx-webchat.cx-theme-light .cx-message.cx-them .cx-bubble-arrow svg * {fill: #005691 !important; }
+  .cx-widget.cx-theme-light .cx-svg-icon-tone1 {fill: #005691 !important; }
+  .cx-widget .cx-side-button-group .cx-svg-icon-tone1 {fill: #ffffff !important;}
+  .cx-webchat .cx-transcript .cx-message.cx-participant:not(.cx-you) .cx-name {color: #FFF !important; }
+  .cx-webchat.cx-theme-light .cx-participant:not(.cx-you) .cx-time {color: #FFF !important; }
+  .cx-webchat .cx-upload.cx-icon {display: block !important;}
+</style>
+  </head>
+
+<body class=" ">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PWMDPZC"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  <!-- DOCK html tag -->
+<dock-privacy-settings
+  consent-categories="marketing, analysis"
+  cookie-name="do-consent"
+  cookie-same-site="Lax"
+  cookie-secure="true"
+  consent-path="/"
+  consent-lifetime-accepted="365"
+  consent-lifetime-declined="31"
+  link-url-marketing="https://show-policy.ttprivacy.com/b801db4e-96cb-49f1-9ed2-d977ceb23278"
+  link-url-imprint="/corporate-information"
+  link-url-policy="https://show-policy.ttprivacy.com/b801db4e-96cb-49f1-9ed2-d977ceb23278"
+  locale= "en-gb"
+  fallback-locale="en-gb">
+</dock-privacy-settings>
+<!-- End DOCK html tag -->
+
+  <!-- Has to be here because matchMedia needs to know the body's width -->
+  <!--[if lt IE 9]>
+            <script src="/js/legacy.min.6a1e05d0.js"></script>
+        <![endif]-->
+  
+  <div>
+    
+
+    <div class="wrapper header-padding  ">
+
+              <div class="mega-menu">
+        <div class="visible-print">
+            <img
+            width="250" src="/img/worcester-logo.svg"
+            alt="Worcester Bosch Logo"
+        >
+    </div>
+
+
+
+
+
+<div class="header-wrap" role="banner">
+    <header class="o-header js-header hidden-print">
+        <a href="#main" class="sr-only sr-only-focusable">Skip to content</a>
+        <div class="o-header__top-container">
+            <div class="e-container">
+                <div class="o-header__top">
+                    <a
+                        class="o-header__logo"
+                                                href="/"
+                        data-analytics-label="logo-consumer"
+                                                data-analytics
+                        data-analytics-category="global"
+                        data-analytics-action="click"
+                        aria-label="Bosch Logo"
+                    >
+                        <div class="text-hide logo
+                    ">Worcester Bosch Logo</div>
+
+                    </a>
+
+                    <div class="o-header__top-right">
+                      
+                      <ul class="o-header__quicklinks">
+            
+        
+        
+        <li>
+            <a
+                class=" active  a-button a-button--integrated"
+                href="https://www.worcester-bosch.co.uk"
+                data-toggle="tooltip"
+                title="Go to the main website"
+                data-analytics
+                data-analytics-category="global"
+                data-analytics-action="click"
+                data-analytics-label="homeowner"
+            >
+                <i class="a-icon a-button__icon boschicon-bosch-ic-user"></i>
+                <div class="a-button__label">Homeowner</div>
+            </a>
+        </li>
+        <li>
+            <a
+                class=" a-button a-button--integrated"
+                href="https://www.worcester-bosch.co.uk/professional"
+                data-toggle="tooltip"
+                title="Go to the professional area"
+                data-analytics
+                data-analytics-category="global"
+                data-analytics-action="click"
+                data-analytics-label="professional"
+            >
+                <i class="a-icon a-button__icon boschicon-bosch-ic-wrench"></i>
+                <div class="a-button__label">Professional</div>
+            </a>
+        </li>
+
+                
+        
+            
+    
+    
+          <li class="o-top-menu__search">
+        <div class="o-header__search">
+    <form method="GET" action="https://www.worcester-bosch.co.uk/search" accept-charset="UTF-8" name="site-search" data-site="2" data-site-area="7">
+    <div class="input-group">
+                    <span class="input-group-addon">
+                <span class="icon icon-search"></span>
+            </span>
+                            <label class="sr-only" for="query-697f32baa229b">
+                Search for products, documents and information
+            </label>
+            <input
+                class="form-control"
+                type="text"
+                id="query-697f32baa229b"
+                name="query"
+                placeholder="Search for products, documents and information"
+                            >
+            <div class="input-group-btn">
+                <button
+                        onClick="fbq('track', 'FAI');"
+                    class="btn btn-default hidden-xs"
+                    type="submit"
+
+                                    >
+                    <span class="icon__search--postcode"></span>
+                    Search
+                </button>
+            </div>
+    </div>
+
+    
+</form>
+</div>
+<div class="top-search-trigger"></div>
+      </li>
+    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="menu-wrapper">
+            <div class="e-container">
+                <nav class="main-navigation">
+                                            <button
+                            type="button"
+                            class="btn btn-default js-menu-toggle menu-toggle"
+                        >
+                            <span class="icon-bar"></span>
+                            <span class="menu-toggle-text">Toggle menu</span>
+                        </button>
+                                        <ul class="js-menu menu">
+                        <li class=" ">
+    <a
+      data-menu-id="0"
+            href="https://www.worcester-bosch.co.uk/how-to-buy-boiler"
+      
+      class="js-menu-dropdown">
+              <span class="menu-title">
+          Get A New Boiler
+        </span>
+      <div class="menu-visible-collapsed pull-right">
+        <span class="menu-visible-icon"></span>
+      </div>
+    </a>
+
+    <ul class="menu-sub">
+              <li>
+          <a
+            class="js-menu-sub-dropdown"
+            href="https://www.worcester-bosch.co.uk/how-to-buy-boiler"
+            data-analytics
+  data-analytics-category="consumer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-how-to-buy"
+          >
+            <span class="menu-title">Get A New Boiler</span>
+          </a>
+        </li>
+                </ul>
+  </li>
+  <li class=" wb-purple-nav">
+    <a
+      data-menu-id="1"
+            href="https://www.worcester-bosch.co.uk/products"
+      
+      class="js-menu-dropdown">
+              <span class="menu-title">
+          Products
+        </span>
+      <div class="menu-visible-collapsed pull-right">
+        <span class="menu-visible-icon"></span>
+      </div>
+    </a>
+
+    <ul class="menu-sub">
+              <li>
+          <a
+            class="js-menu-sub-dropdown"
+            href="https://www.worcester-bosch.co.uk/products"
+            data-analytics
+  data-analytics-category="consumer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-products"
+          >
+            <span class="menu-title">View all products</span>
+          </a>
+        </li>
+            <li >
+  <a
+    href="https://www.worcester-bosch.co.uk/products/boilers"
+    class="js-menu-sub-dropdown "
+    data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-products-boilers"
+  >
+    <span class="menu-title">Boilers by type</span>
+          <div class="menu-visible-collapsed pull-right">
+        <span class="menu-visible-icon"> </span>
+      </div>
+      </a>
+
+      <ul class="menu-sub list text-left menu-level-tertiary-mobile">
+      <li >
+    <a
+      title="Go to Combi Boilers page"
+      href="https://www.worcester-bosch.co.uk/products/boilers/combi-boilers"
+      data-analytics
+  data-analytics-category="boilers-menu"
+  data-analytics-action="click"
+  data-analytics-label="combi-boiler"
+    >
+      Combi Boilers
+    </a>
+</li>
+<li >
+    <a
+      title="Go to System Boilers page"
+      href="https://www.worcester-bosch.co.uk/products/boilers/system-boilers"
+      data-analytics
+  data-analytics-category="boilers-menu"
+  data-analytics-action="click"
+  data-analytics-label="system-boilers"
+    >
+      System Boilers
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Regular Boilers page"
+      href="https://www.worcester-bosch.co.uk/products/boilers/regular-boilers"
+      data-analytics
+  data-analytics-category="boilers-menu"
+  data-analytics-action="click"
+  data-analytics-label="regular-boilers"
+    >
+      Regular Boilers
+    </a>
+</li>
+    </ul>
+  </li>
+<li >
+  <a
+    href="https://www.worcester-bosch.co.uk/products/boilers"
+    class="js-menu-sub-dropdown "
+    data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="fuel-type"
+  >
+    <span class="menu-title">Boilers by fuel type</span>
+          <div class="menu-visible-collapsed pull-right">
+        <span class="menu-visible-icon"> </span>
+      </div>
+      </a>
+
+      <ul class="menu-sub list text-left menu-level-tertiary-mobile">
+      <li >
+    <a
+      title="Go to Gas boilers page"
+      href="https://www.worcester-bosch.co.uk/products/boilers/gas-boilers"
+      data-analytics
+  data-analytics-category="fuel-type"
+  data-analytics-action="click"
+  data-analytics-label="gas-boilers"
+    >
+      Gas boilers
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Oil boilers page"
+      href="https://www.worcester-bosch.co.uk/products/boilers/oil-boilers"
+      data-analytics
+  data-analytics-category="fuel-type"
+  data-analytics-action="click"
+  data-analytics-label="oil-boilers"
+    >
+      Oil boilers
+    </a>
+</li>
+<li >
+    <a
+      title="Go to LPG boilers page"
+      href="https://www.worcester-bosch.co.uk/products/boilers/lpg-boilers"
+      data-analytics
+  data-analytics-category="fuel-type"
+  data-analytics-action="click"
+  data-analytics-label="lpg-boilers"
+    >
+      LPG boilers
+    </a>
+</li>
+    </ul>
+  </li>
+<li >
+  <a
+    href="https://www.worcester-bosch.co.uk/products/boiler-controls"
+    class="js-menu-sub-dropdown "
+    data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-products-controls"
+  >
+    <span class="menu-title">Boiler Controls</span>
+          <div class="menu-visible-collapsed pull-right">
+        <span class="menu-visible-icon"> </span>
+      </div>
+      </a>
+
+      <ul class="menu-sub list text-left menu-level-tertiary-mobile">
+      <li >
+    <a
+      title="Go to Smart Thermostats page"
+      href="https://www.worcester-bosch.co.uk/products/boiler-controls#smart"
+      data-analytics
+  data-analytics-category="boiler-controls-menu"
+  data-analytics-action="click"
+  data-analytics-label="smart-controls"
+    >
+      Smart Thermostats
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Digital Controls page"
+      href="https://www.worcester-bosch.co.uk/products/boiler-controls#digital"
+      data-analytics
+  data-analytics-category="boiler-controls"
+  data-analytics-action="click"
+  data-analytics-label="digital-controls"
+    >
+      Digital Controls
+    </a>
+</li>
+    </ul>
+  </li>
+<li >
+  <a
+    href="https://www.worcester-bosch.co.uk/products"
+    class="js-menu-sub-dropdown "
+    data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-products-other"
+  >
+    <span class="menu-title">Other products</span>
+          <div class="menu-visible-collapsed pull-right">
+        <span class="menu-visible-icon"> </span>
+      </div>
+      </a>
+
+      <ul class="menu-sub list text-left menu-level-tertiary-mobile">
+      <li >
+    <a
+      title="Go to Air conditioning page"
+      href="https://www.worcester-bosch.co.uk/bosch-air-conditioning-units"
+      data-analytics
+  data-analytics-category="other-products"
+  data-analytics-action="click"
+  data-analytics-label="air-conditioning"
+    >
+      Air conditioning
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Accessories page"
+      href="https://www.worcester-bosch.co.uk/products/accessories"
+      data-analytics
+  data-analytics-category="other-products"
+  data-analytics-action="click"
+  data-analytics-label="accessories"
+    >
+      Accessories
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Solar page"
+      href="https://www.worcester-bosch.co.uk/products/solar"
+      data-analytics
+  data-analytics-category="other-products"
+  data-analytics-action="click"
+  data-analytics-label="solar"
+    >
+      Solar
+    </a>
+</li>
+    </ul>
+  </li>
+    </ul>
+  </li>
+  <li class=" wb-blue-nav">
+    <a
+      data-menu-id="2"
+            href="https://www.worcester-bosch.co.uk/MyBosch"
+      
+      class="js-menu-dropdown">
+              <span class="menu-title">
+          Support &amp; Advice
+        </span>
+      <div class="menu-visible-collapsed pull-right">
+        <span class="menu-visible-icon"></span>
+      </div>
+    </a>
+
+    <ul class="menu-sub">
+              <li>
+          <a
+            class="js-menu-sub-dropdown"
+            href="https://www.worcester-bosch.co.uk/MyBosch"
+            data-analytics
+  data-analytics-category="consumer-menu"
+  data-analytics-action="click"
+  data-analytics-label="support-advice"
+          >
+            <span class="menu-title">Login or sign up to MyBosch</span>
+          </a>
+        </li>
+            <li >
+  <a
+    href="https://www.worcester-bosch.co.uk/support/repair"
+    class="js-menu-sub-dropdown "
+    data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="repair"
+  >
+    <span class="menu-title">Book a Repair</span>
+          <div class="menu-visible-collapsed pull-right">
+        <span class="menu-visible-icon"> </span>
+      </div>
+      </a>
+
+      <ul class="menu-sub list text-left menu-level-tertiary-mobile">
+      <li >
+    <a
+      title="Go to Boiler Repair page"
+      href="https://www.worcester-bosch.co.uk/support/boiler-repair"
+      data-analytics
+  data-analytics-category="Consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="boiler-repair"
+    >
+      Boiler Repair
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Heat pump &amp; Hybrid Repair page"
+      href="https://worcester-bosch.typeform.com/repair"
+      data-analytics
+  data-analytics-category="Consumer-sub-menu"
+  data-analytics-action="Click"
+  data-analytics-label="heat-pump-and-hybrid-repair"
+    >
+      Heat pump &amp; Hybrid Repair
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Air conditioning Repair page"
+      href="https://worcester-bosch.typeform.com/ac-appointment"
+      data-analytics
+  data-analytics-category="Consumer-Sub-Menu"
+  data-analytics-action="Click"
+  data-analytics-label="Air-conditioning-repair"
+    >
+      Air conditioning Repair
+    </a>
+</li>
+    </ul>
+  </li>
+<li >
+  <a
+    href="https://www.worcester-bosch.co.uk/support/service"
+    class="js-menu-sub-dropdown "
+    data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="service"
+  >
+    <span class="menu-title">Book a Service</span>
+          <div class="menu-visible-collapsed pull-right">
+        <span class="menu-visible-icon"> </span>
+      </div>
+      </a>
+
+      <ul class="menu-sub list text-left menu-level-tertiary-mobile">
+      <li >
+    <a
+      title="Go to Boiler Service page"
+      href="https://www.worcester-bosch.co.uk/support/boiler-service"
+      data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="boiler-service"
+    >
+      Boiler Service
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Heat pump &amp; Hybrid Service page"
+      href="https://www.worcester-bosch.co.uk/heat-pump-servicing"
+      data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="heat-pump-service"
+    >
+      Heat pump &amp; Hybrid Service
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Air conditioning Service page"
+      href="https://www.worcester-bosch.co.uk/Air-conditioning-servicing"
+      data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="air-conditioning-service"
+    >
+      Air conditioning Service
+    </a>
+</li>
+    </ul>
+  </li>
+<li >
+  <a
+    href="https://www.worcester-bosch.co.uk/support/customer-support"
+    class="js-menu-sub-dropdown "
+    data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="support"
+  >
+    <span class="menu-title">Support</span>
+          <div class="menu-visible-collapsed pull-right">
+        <span class="menu-visible-icon"> </span>
+      </div>
+      </a>
+
+      <ul class="menu-sub list text-left menu-level-tertiary-mobile">
+      <li >
+    <a
+      title="Go to Customer Care Team page"
+      href="https://www.worcester-bosch.co.uk/support"
+      data-analytics
+  data-analytics-category="support"
+  data-analytics-action="click"
+  data-analytics-label="customer-care"
+    >
+      Customer Care Team
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Product Guarantees page"
+      href="https://www.worcester-bosch.co.uk/support/product-guarantees"
+      data-analytics
+  data-analytics-category="support"
+  data-analytics-action="click"
+  data-analytics-label="guarantees"
+    >
+      Product Guarantees
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Customer Feedback page"
+      href="https://www.worcester-bosch.co.uk/support/customer-relations"
+      data-analytics
+  data-analytics-category="support"
+  data-analytics-action="click"
+  data-analytics-label="feedback"
+    >
+      Customer Feedback
+    </a>
+</li>
+    </ul>
+  </li>
+<li >
+  <a
+    href="https://www.worcester-bosch.co.uk/heating-advice"
+    class="js-menu-sub-dropdown "
+    data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="advice"
+  >
+    <span class="menu-title">Advice</span>
+          <div class="menu-visible-collapsed pull-right">
+        <span class="menu-visible-icon"> </span>
+      </div>
+      </a>
+
+      <ul class="menu-sub list text-left menu-level-tertiary-mobile">
+      <li >
+    <a
+      title="Go to Energy Efficiency page"
+      href="https://www.worcester-bosch.co.uk/heating-advice/energy-efficiency"
+      data-analytics
+  data-analytics-category="advice"
+  data-analytics-action="click"
+  data-analytics-label="energy-efficiency"
+    >
+      Energy Efficiency
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Why Bosch? page"
+      href="https://www.worcester-bosch.co.uk/about/why-worcester-bosch"
+      data-analytics
+  data-analytics-category="advice"
+  data-analytics-action="click"
+  data-analytics-label="why-bosch"
+    >
+      Why Bosch?
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Endorsements and awards page"
+      href="https://www.worcester-bosch.co.uk/consumer/endorsements-awards"
+      data-analytics
+  data-analytics-category=""
+  data-analytics-action="click"
+  data-analytics-label=""
+    >
+      Endorsements and awards
+    </a>
+</li>
+    </ul>
+  </li>
+<li >
+  <a
+    href="https://www.worcester-bosch.co.uk/support/online-support"
+    class="js-menu-sub-dropdown "
+    data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="online"
+  >
+    <span class="menu-title">Online Help</span>
+          <div class="menu-visible-collapsed pull-right">
+        <span class="menu-visible-icon"> </span>
+      </div>
+      </a>
+
+      <ul class="menu-sub list text-left menu-level-tertiary-mobile">
+      <li >
+    <a
+      title="Go to Manuals &amp; Brochures page"
+      href="https://www.worcester-bosch.co.uk/support/manuals-and-brochures"
+      data-analytics
+  data-analytics-category="online"
+  data-analytics-action="click"
+  data-analytics-label="manuals-brochures"
+    >
+      Manuals &amp; Brochures
+    </a>
+</li>
+<li >
+    <a
+      title="Go to FAQ&#039;s page"
+      href="https://www.worcester-bosch.co.uk/support/troubleshooting/faqs"
+      data-analytics
+  data-analytics-category="online"
+  data-analytics-action="click"
+  data-analytics-label="faq"
+    >
+      FAQ&#039;s
+    </a>
+</li>
+<li >
+    <a
+      title="Go to How-to Videos page"
+      href="https://www.worcester-bosch.co.uk/support/troubleshooting/videos"
+      data-analytics
+  data-analytics-category="online"
+  data-analytics-action="click"
+  data-analytics-label="how-to"
+    >
+      How-to Videos
+    </a>
+</li>
+    </ul>
+  </li>
+<li >
+  <a
+    href="https://www.worcester-bosch.co.uk/support/product-plans"
+    class="js-menu-sub-dropdown "
+    data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="product-plans"
+  >
+    <span class="menu-title">Product Plans</span>
+      </a>
+
+  </li>
+<li >
+  <a
+    href="https://www.worcester-bosch.co.uk/finance"
+    class="js-menu-sub-dropdown "
+    data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="finance"
+  >
+    <span class="menu-title">Boiler Finance Options</span>
+      </a>
+
+  </li>
+    </ul>
+  </li>
+  <li class=" wb-light-blue-nav">
+    <a
+      data-menu-id="3"
+            href="https://www.worcester-bosch.co.uk/renewable-heating-choices"
+      
+      class="js-menu-dropdown">
+              <span class="menu-title">
+          Heat Pumps &amp; Hybrids
+        </span>
+      <div class="menu-visible-collapsed pull-right">
+        <span class="menu-visible-icon"></span>
+      </div>
+    </a>
+
+    <ul class="menu-sub">
+              <li>
+          <a
+            class="js-menu-sub-dropdown"
+            href="https://www.worcester-bosch.co.uk/renewable-heating-choices"
+            data-analytics
+  data-analytics-category="consumer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-green-heating"
+          >
+            <span class="menu-title">Renewable Choices</span>
+          </a>
+        </li>
+            <li >
+  <a
+    href="https://www.worcester-bosch.co.uk/how-to-buy-greener-heating-system"
+    class="js-menu-sub-dropdown "
+    data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="how-to-buy"
+  >
+    <span class="menu-title">How to buy</span>
+          <div class="menu-visible-collapsed pull-right">
+        <span class="menu-visible-icon"> </span>
+      </div>
+      </a>
+
+      <ul class="menu-sub list text-left menu-level-tertiary-mobile">
+      <li >
+    <a
+      title="Go to How to get a hybrid page"
+      href="https://www.worcester-bosch.co.uk/go-hybrid-heating"
+      data-analytics
+  data-analytics-category="how-to-buy"
+  data-analytics-action="click"
+  data-analytics-label="hybrid"
+    >
+      How to get a hybrid
+    </a>
+</li>
+<li >
+    <a
+      title="Go to How to get a heat pump page"
+      href="https://www.worcester-bosch.co.uk/heat-pump-enquiry"
+      data-analytics
+  data-analytics-category="how-to-buy"
+  data-analytics-action="click"
+  data-analytics-label="heat-pump"
+    >
+      How to get a heat pump
+    </a>
+</li>
+    </ul>
+  </li>
+<li >
+  <a
+    href="https://www.worcester-bosch.co.uk/products"
+    class="js-menu-sub-dropdown "
+    data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="product-advice"
+  >
+    <span class="menu-title">Product advice</span>
+          <div class="menu-visible-collapsed pull-right">
+        <span class="menu-visible-icon"> </span>
+      </div>
+      </a>
+
+      <ul class="menu-sub list text-left menu-level-tertiary-mobile">
+      <li >
+    <a
+      title="Go to Heat pumps page"
+      href="https://www.worcester-bosch.co.uk/heat-pumps"
+      data-analytics
+  data-analytics-category="product-advice"
+  data-analytics-action="click"
+  data-analytics-label="heat-pumps"
+    >
+      Heat pumps
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Hybrids page"
+      href="https://www.worcester-bosch.co.uk/hybrid-systems"
+      data-analytics
+  data-analytics-category="product-advice"
+  data-analytics-action="click"
+  data-analytics-label="hybrids"
+    >
+      Hybrids
+    </a>
+</li>
+    </ul>
+  </li>
+<li >
+  <a
+    href="https://www.worcester-bosch.co.uk/products/boiler-controls/Bosch-HomeCom-Easy-App"
+    class="js-menu-sub-dropdown "
+    data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="homecom"
+  >
+    <span class="menu-title">Bosch HomeCom Easy App</span>
+      </a>
+
+  </li>
+    </ul>
+  </li>
+  <li class=" wb-light-green-nav">
+    <a
+      data-menu-id="4"
+            href="https://www.worcester-bosch.co.uk/MyBosch"
+      
+      class="js-menu-dropdown">
+              <span class="menu-title">
+          MyBosch
+        </span>
+      <div class="menu-visible-collapsed pull-right">
+        <span class="menu-visible-icon"></span>
+      </div>
+    </a>
+
+    <ul class="menu-sub">
+              <li>
+          <a
+            class="js-menu-sub-dropdown"
+            href="https://www.worcester-bosch.co.uk/MyBosch"
+            data-analytics
+  data-analytics-category="consumer-menu"
+  data-analytics-action="click"
+  data-analytics-label="mybosch"
+          >
+            <span class="menu-title">MyBosch</span>
+          </a>
+        </li>
+            <li >
+  <a
+    href="https://my.worcester-bosch.co.uk/"
+    class="js-menu-sub-dropdown "
+    data-analytics
+  data-analytics-category="consumer-menu"
+  data-analytics-action="click"
+  data-analytics-label="mybosch-login"
+  >
+    <span class="menu-title">Login</span>
+      </a>
+
+  </li>
+<li >
+  <a
+    href="https://my.worcester-bosch.co.uk/"
+    class="js-menu-sub-dropdown "
+    data-analytics
+  data-analytics-category="consumer-menu"
+  data-analytics-action="click"
+  data-analytics-label="mybosch-signup"
+  >
+    <span class="menu-title">Sign up</span>
+      </a>
+
+  </li>
+    </ul>
+  </li>
+
+                    </ul>
+
+                                            <div id="trust-pilot-top-bar" class="trustpilot-master-widget">
+    <a
+      class="trustpilot-widget-v2"
+      href="/about/boiler-reviews"
+      data-analytics
+      data-analytics-category="consumer-home"
+      data-analytics-action="click"
+      data-analytics-label="Trust Pilot Banner"
+    >
+
+      <span class="excellent">Excellent</span>
+      <span class="stars"><img src="/img/trustpilot/4.5stars.svg" alt="4.5 Stars"></span>
+      <span class="reviews">based on <span class="number">49960</span> reviews</span>
+      <span class="trust-logo"><img src="/img/trustpilot/trustpilot_logo.svg" alt="Trustpilot"></span>
+      <meta itemprop="itemReviewed" content="Worcester Bosch">
+      <meta itemprop="ratingValue" content="4.5">
+      <meta itemprop="worstRating" content="1">
+      <meta itemprop="bestRating" content="5">
+      <meta itemprop="ratingCount" content="49960">
+    </a>
+  </div>
+                                        
+
+                    
+                    
+                                    </nav>
+            </div>
+
+            <div class="o-top-menu-mobile">
+                <ul class="o-header__quicklinks">
+            
+        
+        
+        <li>
+            <a
+                class=" active  a-button a-button--integrated"
+                href="https://www.worcester-bosch.co.uk"
+                data-toggle="tooltip"
+                title="Go to the main website"
+                data-analytics
+                data-analytics-category="global"
+                data-analytics-action="click"
+                data-analytics-label="homeowner"
+            >
+                <i class="a-icon a-button__icon boschicon-bosch-ic-user"></i>
+                <div class="a-button__label">Homeowner</div>
+            </a>
+        </li>
+        <li>
+            <a
+                class=" a-button a-button--integrated"
+                href="https://www.worcester-bosch.co.uk/professional"
+                data-toggle="tooltip"
+                title="Go to the professional area"
+                data-analytics
+                data-analytics-category="global"
+                data-analytics-action="click"
+                data-analytics-label="professional"
+            >
+                <i class="a-icon a-button__icon boschicon-bosch-ic-wrench"></i>
+                <div class="a-button__label">Professional</div>
+            </a>
+        </li>
+
+                
+        
+            
+    
+    
+          <li class="o-top-menu__search">
+        <div class="o-header__search">
+    <form method="GET" action="https://www.worcester-bosch.co.uk/search" accept-charset="UTF-8" name="site-search" data-site="2" data-site-area="7">
+    <div class="input-group">
+                    <span class="input-group-addon">
+                <span class="icon icon-search"></span>
+            </span>
+                            <label class="sr-only" for="query-697f32bac48ec">
+                Search for products, documents and information
+            </label>
+            <input
+                class="form-control"
+                type="text"
+                id="query-697f32bac48ec"
+                name="query"
+                placeholder="Search for products, documents and information"
+                            >
+            <div class="input-group-btn">
+                <button
+                        onClick="fbq('track', 'FAI');"
+                    class="btn btn-default hidden-xs"
+                    type="submit"
+
+                                    >
+                    <span class="icon__search--postcode"></span>
+                    Search
+                </button>
+            </div>
+    </div>
+
+    
+</form>
+</div>
+<div class="top-search-trigger"></div>
+      </li>
+    </ul>
+            </div>
+        </div>
+        <div class="sub-menu-wrapper">
+            <div class="e-container">
+                <div class="js-menu-sub-below menu menu-sub-below hide" data-menu-parent="0">
+    <div class="menu-body">
+      <a role="tab"
+         title="Refocus on main menu"
+         href="#"
+         class="sr-only sr-only-focusable js-nav-focus">
+        Refocus on main menu
+      </a>
+
+        <div class="menu-body-inner grid grid-two-col grid-col-right">
+          <div class="grid-col">
+                          <ul class="menu-level-secondary menu-level-secondary--overview">
+                <li>
+                  <a
+                    href="https://www.worcester-bosch.co.uk/how-to-buy-boiler"
+                    data-analytics
+  data-analytics-category="consumer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-how-to-buy"
+                  >
+                    Get A New Boiler
+                  </a>
+                </li>
+              </ul>
+                        <ul class="grid grid-four-col menu-level-secondary">
+                          </ul>
+          </div>
+          <div class="grid-col menu-image-wrap">
+            <a role="link" title="Find your perfect boiler match" href="https://www.worcester-bosch.co.uk/your-perfect-match">
+    <picture>
+              <img
+            style=""
+            class="menu-image img-responsive"
+            src="/img/campaign/perfect_match/YPM_logo_promo_space.png"
+            alt="Corresponding Nav Image"
+            loading="eager"
+            fetchpriority="auto"
+        >
+          </picture>
+    <div class="menu-image-desc">Find your perfect boiler match</div>
+  </a>
+          </div>
+        </div>
+
+      <a role="tab"
+         title="Refocus on main menu"
+         href="#"
+         class="sr-only sr-only-focusable js-nav-focus">
+        Refocus on main menu
+      </a>
+    </div>
+  </div>
+  <div class="js-menu-sub-below menu menu-sub-below hide" data-menu-parent="1">
+    <div class="menu-body">
+      <a role="tab"
+         title="Refocus on main menu"
+         href="#"
+         class="sr-only sr-only-focusable js-nav-focus">
+        Refocus on main menu
+      </a>
+
+        <div class="menu-body-inner grid grid-two-col grid-col-right">
+          <div class="grid-col">
+                          <ul class="menu-level-secondary menu-level-secondary--overview">
+                <li>
+                  <a
+                    href="https://www.worcester-bosch.co.uk/products"
+                    data-analytics
+  data-analytics-category="consumer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-products"
+                  >
+                    View all products
+                  </a>
+                </li>
+              </ul>
+                        <ul class="grid grid-four-col menu-level-secondary">
+                              <li class="col-xs-3  wb-purple-nav">
+  <a
+    href="https://www.worcester-bosch.co.uk/products/boilers"
+        data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-products-boilers"
+  >
+    Boilers by type
+  </a>
+
+      <ul class="list menu-sub-sub-below menu-level-tertiary">
+      <li >
+    <a
+      title="Go to Combi Boilers page"
+      href="https://www.worcester-bosch.co.uk/products/boilers/combi-boilers"
+      data-analytics
+  data-analytics-category="boilers-menu"
+  data-analytics-action="click"
+  data-analytics-label="combi-boiler"
+    >
+      Combi Boilers
+    </a>
+</li>
+<li >
+    <a
+      title="Go to System Boilers page"
+      href="https://www.worcester-bosch.co.uk/products/boilers/system-boilers"
+      data-analytics
+  data-analytics-category="boilers-menu"
+  data-analytics-action="click"
+  data-analytics-label="system-boilers"
+    >
+      System Boilers
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Regular Boilers page"
+      href="https://www.worcester-bosch.co.uk/products/boilers/regular-boilers"
+      data-analytics
+  data-analytics-category="boilers-menu"
+  data-analytics-action="click"
+  data-analytics-label="regular-boilers"
+    >
+      Regular Boilers
+    </a>
+</li>
+    </ul>
+  </li>
+                              <li class="col-xs-3  wb-purple-nav">
+  <a
+    href="https://www.worcester-bosch.co.uk/products/boilers"
+        data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="fuel-type"
+  >
+    Boilers by fuel type
+  </a>
+
+      <ul class="list menu-sub-sub-below menu-level-tertiary">
+      <li >
+    <a
+      title="Go to Gas boilers page"
+      href="https://www.worcester-bosch.co.uk/products/boilers/gas-boilers"
+      data-analytics
+  data-analytics-category="fuel-type"
+  data-analytics-action="click"
+  data-analytics-label="gas-boilers"
+    >
+      Gas boilers
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Oil boilers page"
+      href="https://www.worcester-bosch.co.uk/products/boilers/oil-boilers"
+      data-analytics
+  data-analytics-category="fuel-type"
+  data-analytics-action="click"
+  data-analytics-label="oil-boilers"
+    >
+      Oil boilers
+    </a>
+</li>
+<li >
+    <a
+      title="Go to LPG boilers page"
+      href="https://www.worcester-bosch.co.uk/products/boilers/lpg-boilers"
+      data-analytics
+  data-analytics-category="fuel-type"
+  data-analytics-action="click"
+  data-analytics-label="lpg-boilers"
+    >
+      LPG boilers
+    </a>
+</li>
+    </ul>
+  </li>
+                              <li class="col-xs-3  wb-purple-nav">
+  <a
+    href="https://www.worcester-bosch.co.uk/products/boiler-controls"
+        data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-products-controls"
+  >
+    Boiler Controls
+  </a>
+
+      <ul class="list menu-sub-sub-below menu-level-tertiary">
+      <li >
+    <a
+      title="Go to Smart Thermostats page"
+      href="https://www.worcester-bosch.co.uk/products/boiler-controls#smart"
+      data-analytics
+  data-analytics-category="boiler-controls-menu"
+  data-analytics-action="click"
+  data-analytics-label="smart-controls"
+    >
+      Smart Thermostats
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Digital Controls page"
+      href="https://www.worcester-bosch.co.uk/products/boiler-controls#digital"
+      data-analytics
+  data-analytics-category="boiler-controls"
+  data-analytics-action="click"
+  data-analytics-label="digital-controls"
+    >
+      Digital Controls
+    </a>
+</li>
+    </ul>
+  </li>
+                              <li class="col-xs-3  wb-purple-nav">
+  <a
+    href="https://www.worcester-bosch.co.uk/products"
+        data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-products-other"
+  >
+    Other products
+  </a>
+
+      <ul class="list menu-sub-sub-below menu-level-tertiary">
+      <li >
+    <a
+      title="Go to Air conditioning page"
+      href="https://www.worcester-bosch.co.uk/bosch-air-conditioning-units"
+      data-analytics
+  data-analytics-category="other-products"
+  data-analytics-action="click"
+  data-analytics-label="air-conditioning"
+    >
+      Air conditioning
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Accessories page"
+      href="https://www.worcester-bosch.co.uk/products/accessories"
+      data-analytics
+  data-analytics-category="other-products"
+  data-analytics-action="click"
+  data-analytics-label="accessories"
+    >
+      Accessories
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Solar page"
+      href="https://www.worcester-bosch.co.uk/products/solar"
+      data-analytics
+  data-analytics-category="other-products"
+  data-analytics-action="click"
+  data-analytics-label="solar"
+    >
+      Solar
+    </a>
+</li>
+    </ul>
+  </li>
+                          </ul>
+          </div>
+          <div class="grid-col menu-image-wrap">
+            <a role="link" title="Browse our range of Worcester Bosch products." href="https://www.worcester-bosch.co.uk/products">
+    <picture>
+              <img
+            style=""
+            class="menu-image img-responsive"
+            src="/img/how-to-buy/combi_boiler.png"
+            alt="Corresponding Nav Image"
+            loading="eager"
+            fetchpriority="auto"
+        >
+          </picture>
+    <div class="menu-image-desc">Browse our range of Worcester Bosch products.</div>
+  </a>
+          </div>
+        </div>
+
+      <a role="tab"
+         title="Refocus on main menu"
+         href="#"
+         class="sr-only sr-only-focusable js-nav-focus">
+        Refocus on main menu
+      </a>
+    </div>
+  </div>
+  <div class="js-menu-sub-below menu menu-sub-below hide" data-menu-parent="2">
+    <div class="menu-body">
+      <a role="tab"
+         title="Refocus on main menu"
+         href="#"
+         class="sr-only sr-only-focusable js-nav-focus">
+        Refocus on main menu
+      </a>
+
+        <div class="menu-body-inner grid grid-two-col grid-col-right">
+          <div class="grid-col">
+                          <ul class="menu-level-secondary menu-level-secondary--overview">
+                <li>
+                  <a
+                    href="https://www.worcester-bosch.co.uk/MyBosch"
+                    data-analytics
+  data-analytics-category="consumer-menu"
+  data-analytics-action="click"
+  data-analytics-label="support-advice"
+                  >
+                    Login or sign up to MyBosch
+                  </a>
+                </li>
+              </ul>
+                        <ul class="grid grid-four-col menu-level-secondary">
+                              <li class="col-xs-3  wb-blue-nav">
+  <a
+    href="https://www.worcester-bosch.co.uk/support/repair"
+        data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="repair"
+  >
+    Book a Repair
+  </a>
+
+      <ul class="list menu-sub-sub-below menu-level-tertiary">
+      <li >
+    <a
+      title="Go to Boiler Repair page"
+      href="https://www.worcester-bosch.co.uk/support/boiler-repair"
+      data-analytics
+  data-analytics-category="Consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="boiler-repair"
+    >
+      Boiler Repair
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Heat pump &amp; Hybrid Repair page"
+      href="https://worcester-bosch.typeform.com/repair"
+      data-analytics
+  data-analytics-category="Consumer-sub-menu"
+  data-analytics-action="Click"
+  data-analytics-label="heat-pump-and-hybrid-repair"
+    >
+      Heat pump &amp; Hybrid Repair
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Air conditioning Repair page"
+      href="https://worcester-bosch.typeform.com/ac-appointment"
+      data-analytics
+  data-analytics-category="Consumer-Sub-Menu"
+  data-analytics-action="Click"
+  data-analytics-label="Air-conditioning-repair"
+    >
+      Air conditioning Repair
+    </a>
+</li>
+    </ul>
+  </li>
+                              <li class="col-xs-3  wb-blue-nav">
+  <a
+    href="https://www.worcester-bosch.co.uk/support/service"
+        data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="service"
+  >
+    Book a Service
+  </a>
+
+      <ul class="list menu-sub-sub-below menu-level-tertiary">
+      <li >
+    <a
+      title="Go to Boiler Service page"
+      href="https://www.worcester-bosch.co.uk/support/boiler-service"
+      data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="boiler-service"
+    >
+      Boiler Service
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Heat pump &amp; Hybrid Service page"
+      href="https://www.worcester-bosch.co.uk/heat-pump-servicing"
+      data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="heat-pump-service"
+    >
+      Heat pump &amp; Hybrid Service
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Air conditioning Service page"
+      href="https://www.worcester-bosch.co.uk/Air-conditioning-servicing"
+      data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="air-conditioning-service"
+    >
+      Air conditioning Service
+    </a>
+</li>
+    </ul>
+  </li>
+                              <li class="col-xs-3  wb-blue-nav">
+  <a
+    href="https://www.worcester-bosch.co.uk/support/customer-support"
+        data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="support"
+  >
+    Support
+  </a>
+
+      <ul class="list menu-sub-sub-below menu-level-tertiary">
+      <li >
+    <a
+      title="Go to Customer Care Team page"
+      href="https://www.worcester-bosch.co.uk/support"
+      data-analytics
+  data-analytics-category="support"
+  data-analytics-action="click"
+  data-analytics-label="customer-care"
+    >
+      Customer Care Team
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Product Guarantees page"
+      href="https://www.worcester-bosch.co.uk/support/product-guarantees"
+      data-analytics
+  data-analytics-category="support"
+  data-analytics-action="click"
+  data-analytics-label="guarantees"
+    >
+      Product Guarantees
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Customer Feedback page"
+      href="https://www.worcester-bosch.co.uk/support/customer-relations"
+      data-analytics
+  data-analytics-category="support"
+  data-analytics-action="click"
+  data-analytics-label="feedback"
+    >
+      Customer Feedback
+    </a>
+</li>
+    </ul>
+  </li>
+                              <li class="col-xs-3  wb-blue-nav">
+  <a
+    href="https://www.worcester-bosch.co.uk/heating-advice"
+        data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="advice"
+  >
+    Advice
+  </a>
+
+      <ul class="list menu-sub-sub-below menu-level-tertiary">
+      <li >
+    <a
+      title="Go to Energy Efficiency page"
+      href="https://www.worcester-bosch.co.uk/heating-advice/energy-efficiency"
+      data-analytics
+  data-analytics-category="advice"
+  data-analytics-action="click"
+  data-analytics-label="energy-efficiency"
+    >
+      Energy Efficiency
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Why Bosch? page"
+      href="https://www.worcester-bosch.co.uk/about/why-worcester-bosch"
+      data-analytics
+  data-analytics-category="advice"
+  data-analytics-action="click"
+  data-analytics-label="why-bosch"
+    >
+      Why Bosch?
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Endorsements and awards page"
+      href="https://www.worcester-bosch.co.uk/consumer/endorsements-awards"
+      data-analytics
+  data-analytics-category=""
+  data-analytics-action="click"
+  data-analytics-label=""
+    >
+      Endorsements and awards
+    </a>
+</li>
+    </ul>
+  </li>
+                              <li class="col-xs-3  wb-blue-nav">
+  <a
+    href="https://www.worcester-bosch.co.uk/support/online-support"
+        data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="online"
+  >
+    Online Help
+  </a>
+
+      <ul class="list menu-sub-sub-below menu-level-tertiary">
+      <li >
+    <a
+      title="Go to Manuals &amp; Brochures page"
+      href="https://www.worcester-bosch.co.uk/support/manuals-and-brochures"
+      data-analytics
+  data-analytics-category="online"
+  data-analytics-action="click"
+  data-analytics-label="manuals-brochures"
+    >
+      Manuals &amp; Brochures
+    </a>
+</li>
+<li >
+    <a
+      title="Go to FAQ&#039;s page"
+      href="https://www.worcester-bosch.co.uk/support/troubleshooting/faqs"
+      data-analytics
+  data-analytics-category="online"
+  data-analytics-action="click"
+  data-analytics-label="faq"
+    >
+      FAQ&#039;s
+    </a>
+</li>
+<li >
+    <a
+      title="Go to How-to Videos page"
+      href="https://www.worcester-bosch.co.uk/support/troubleshooting/videos"
+      data-analytics
+  data-analytics-category="online"
+  data-analytics-action="click"
+  data-analytics-label="how-to"
+    >
+      How-to Videos
+    </a>
+</li>
+    </ul>
+  </li>
+                              <li class="col-xs-3  wb-blue-nav">
+  <a
+    href="https://www.worcester-bosch.co.uk/support/product-plans"
+        data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="product-plans"
+  >
+    Product Plans
+  </a>
+
+  </li>
+                              <li class="col-xs-3  wb-blue-nav">
+  <a
+    href="https://www.worcester-bosch.co.uk/finance"
+        data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="finance"
+  >
+    Boiler Finance Options
+  </a>
+
+  </li>
+                          </ul>
+          </div>
+          <div class="grid-col menu-image-wrap">
+            <a role="link" title="Sign up to MyBosch for support with your products" href="https://www.worcester-bosch.co.uk/MyBosch">
+    <picture>
+              <img
+            style=""
+            class="menu-image img-responsive"
+            src="/img/mybosch/MyBosch_tag_badge.png"
+            alt="Corresponding Nav Image"
+            loading="eager"
+            fetchpriority="auto"
+        >
+          </picture>
+    <div class="menu-image-desc">Sign up to MyBosch for support with your products</div>
+  </a>
+          </div>
+        </div>
+
+      <a role="tab"
+         title="Refocus on main menu"
+         href="#"
+         class="sr-only sr-only-focusable js-nav-focus">
+        Refocus on main menu
+      </a>
+    </div>
+  </div>
+  <div class="js-menu-sub-below menu menu-sub-below hide" data-menu-parent="3">
+    <div class="menu-body">
+      <a role="tab"
+         title="Refocus on main menu"
+         href="#"
+         class="sr-only sr-only-focusable js-nav-focus">
+        Refocus on main menu
+      </a>
+
+        <div class="menu-body-inner grid grid-two-col grid-col-right">
+          <div class="grid-col">
+                          <ul class="menu-level-secondary menu-level-secondary--overview">
+                <li>
+                  <a
+                    href="https://www.worcester-bosch.co.uk/renewable-heating-choices"
+                    data-analytics
+  data-analytics-category="consumer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-green-heating"
+                  >
+                    Renewable Choices
+                  </a>
+                </li>
+              </ul>
+                        <ul class="grid grid-four-col menu-level-secondary">
+                              <li class="col-xs-3  wb-light-blue-nav">
+  <a
+    href="https://www.worcester-bosch.co.uk/how-to-buy-greener-heating-system"
+        data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="how-to-buy"
+  >
+    How to buy
+  </a>
+
+      <ul class="list menu-sub-sub-below menu-level-tertiary">
+      <li >
+    <a
+      title="Go to How to get a hybrid page"
+      href="https://www.worcester-bosch.co.uk/go-hybrid-heating"
+      data-analytics
+  data-analytics-category="how-to-buy"
+  data-analytics-action="click"
+  data-analytics-label="hybrid"
+    >
+      How to get a hybrid
+    </a>
+</li>
+<li >
+    <a
+      title="Go to How to get a heat pump page"
+      href="https://www.worcester-bosch.co.uk/heat-pump-enquiry"
+      data-analytics
+  data-analytics-category="how-to-buy"
+  data-analytics-action="click"
+  data-analytics-label="heat-pump"
+    >
+      How to get a heat pump
+    </a>
+</li>
+    </ul>
+  </li>
+                              <li class="col-xs-3  wb-light-blue-nav">
+  <a
+    href="https://www.worcester-bosch.co.uk/products"
+        data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="product-advice"
+  >
+    Product advice
+  </a>
+
+      <ul class="list menu-sub-sub-below menu-level-tertiary">
+      <li >
+    <a
+      title="Go to Heat pumps page"
+      href="https://www.worcester-bosch.co.uk/heat-pumps"
+      data-analytics
+  data-analytics-category="product-advice"
+  data-analytics-action="click"
+  data-analytics-label="heat-pumps"
+    >
+      Heat pumps
+    </a>
+</li>
+<li >
+    <a
+      title="Go to Hybrids page"
+      href="https://www.worcester-bosch.co.uk/hybrid-systems"
+      data-analytics
+  data-analytics-category="product-advice"
+  data-analytics-action="click"
+  data-analytics-label="hybrids"
+    >
+      Hybrids
+    </a>
+</li>
+    </ul>
+  </li>
+                              <li class="col-xs-3  wb-light-blue-nav">
+  <a
+    href="https://www.worcester-bosch.co.uk/products/boiler-controls/Bosch-HomeCom-Easy-App"
+        data-analytics
+  data-analytics-category="consumer-sub-menu"
+  data-analytics-action="click"
+  data-analytics-label="homecom"
+  >
+    Bosch HomeCom Easy App
+  </a>
+
+  </li>
+                          </ul>
+          </div>
+          <div class="grid-col menu-image-wrap">
+            <a role="link" title="Find your match made in heating" href="https://www.worcester-bosch.co.uk/your-perfect-match">
+    <picture>
+              <img
+            style=""
+            class="menu-image img-responsive"
+            src="/img/campaign/perfect_match/YPM_logo_promo_space_HPHybrid.png"
+            alt="Corresponding Nav Image"
+            loading="eager"
+            fetchpriority="auto"
+        >
+          </picture>
+    <div class="menu-image-desc">Find your match made in heating</div>
+  </a>
+          </div>
+        </div>
+
+      <a role="tab"
+         title="Refocus on main menu"
+         href="#"
+         class="sr-only sr-only-focusable js-nav-focus">
+        Refocus on main menu
+      </a>
+    </div>
+  </div>
+  <div class="js-menu-sub-below menu menu-sub-below hide" data-menu-parent="4">
+    <div class="menu-body">
+      <a role="tab"
+         title="Refocus on main menu"
+         href="#"
+         class="sr-only sr-only-focusable js-nav-focus">
+        Refocus on main menu
+      </a>
+
+        <div class="menu-body-inner grid grid-two-col grid-col-right">
+          <div class="grid-col">
+                          <ul class="menu-level-secondary menu-level-secondary--overview">
+                <li>
+                  <a
+                    href="https://www.worcester-bosch.co.uk/MyBosch"
+                    data-analytics
+  data-analytics-category="consumer-menu"
+  data-analytics-action="click"
+  data-analytics-label="mybosch"
+                  >
+                    MyBosch
+                  </a>
+                </li>
+              </ul>
+                        <ul class="grid grid-four-col menu-level-secondary">
+                              <li class="col-xs-3  wb-light-green-nav">
+  <a
+    href="https://my.worcester-bosch.co.uk/"
+        data-analytics
+  data-analytics-category="consumer-menu"
+  data-analytics-action="click"
+  data-analytics-label="mybosch-login"
+  >
+    Login
+  </a>
+
+  </li>
+                              <li class="col-xs-3  wb-light-green-nav">
+  <a
+    href="https://my.worcester-bosch.co.uk/"
+        data-analytics
+  data-analytics-category="consumer-menu"
+  data-analytics-action="click"
+  data-analytics-label="mybosch-signup"
+  >
+    Sign up
+  </a>
+
+  </li>
+                          </ul>
+          </div>
+          <div class="grid-col menu-image-wrap">
+                      </div>
+        </div>
+
+      <a role="tab"
+         title="Refocus on main menu"
+         href="#"
+         class="sr-only sr-only-focusable js-nav-focus">
+        Refocus on main menu
+      </a>
+    </div>
+  </div>
+
+
+                                    <div class="js-menu-sub-below menu menu-sub-below hide" data-menu-parent="#search"></div>
+                
+                            </div>
+        </div>
+        
+                    <div class="e-container">
+    <div class="o-header__meta">
+                    
+        
+            </div>
+</div>
+            </header>
+</div>
+    </div>
+          
+                        <section class="band band-no-pad page-heading">
+          <div class="e-container">
+            <div class="">
+              <div class="subnav-title-wrapper">
+    <h1 class="subnav-title">Oops!</h1>
+</div>
+              <div>
+                              </div>
+            </div>
+          </div>
+        </section>
+                                <main role="main" id="main">
+        
+                          
+              <section class="band no-top-pad h2--2xl">
+      <div class="e-container">
+        <div class="text">
+                      <h2>We can't seem to find the page you are looking for</h2><p>Try checking the URL for errors or you can search for what you&#39;re looking for below.</p>
+
+                    <p>
+            <form method="GET" action="https://www.worcester-bosch.co.uk/search" accept-charset="UTF-8" name="site-search" data-site="2" data-site-area="7">
+    <div class="input-group">
+                            <label class="sr-only" for="query-697f32ba9d600">
+                Search for products, documents and information
+            </label>
+            <input
+                class="form-control"
+                type="text"
+                id="query-697f32ba9d600"
+                name="query"
+                placeholder="Search for products, documents and information"
+                            >
+            <div class="input-group-btn">
+                <button
+                        onClick="fbq('track', 'FAI');"
+                    class="btn btn-primary"
+                    type="submit"
+
+                                    >
+                    <span class="icon__search--postcode"></span>
+                    Search
+                </button>
+            </div>
+    </div>
+
+    
+</form>
+          </p>
+        </div>
+      </div>
+    </section>
+  
+                        
+                              </main>
+
+      <!-- Modal -->
+<div class="modal fade" id="modal" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title"></h4>
+      </div>
+      <div class="modal-body"></div>
+      <div class="modal-footer"></div>
+    </div>
+  </div>
+</div>      
+
+      
+
+      <!--BE IXF: The following <div> block needs to be placed in the location where the link block will be displayed-->
+<!--BE IXF: For your website, the location is   -->
+<div class="be-ix-link-block e-container"><!--Link Block Targeting Div --></div>
+<!--BE IXF: end -->
+
+<footer class="o-footer hidden-print">
+    <h2 class="sr-only">Footer</h2>
+    <div class="o-footer__search-container -secondary">
+        <div class="e-container">
+            <div class="o-footer__search">
+    <div class="o-footer__search-cta">Still looking for something?</div>
+    <form method="GET" action="https://www.worcester-bosch.co.uk/search" accept-charset="UTF-8" name="site-search" data-site="2" data-site-area="7">
+    <div class="input-group">
+                    <span class="input-group-addon">
+                <span class="icon icon-search"></span>
+            </span>
+                            <label class="sr-only" for="query-697f32bacb0b9">
+                Search for products, documents and information
+            </label>
+            <input
+                class="form-control"
+                type="text"
+                id="query-697f32bacb0b9"
+                name="query"
+                placeholder="Search for products, documents and information"
+                            >
+            <div class="input-group-btn">
+                <button
+                        onClick="fbq('track', 'FAI');"
+                    class="btn btn-default hidden-xs"
+                    type="submit"
+
+                                    >
+                    <span class="icon__search--postcode"></span>
+                    Search
+                </button>
+            </div>
+    </div>
+
+    
+</form>
+</div>        </div>
+    </div>
+    <div class="e-container">
+        <div class="footer-main">
+                        <div class="footer-column">
+            <h3 class="-size-l">Products</h3>
+        <ul>
+            <li>
+        <a href="https://www.worcester-bosch.co.uk/products/boilers"
+            target=""
+            data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-products-boilers"
+        >
+
+            Boilers
+
+                    </a>
+    </li>
+<li>
+        <a href="https://www.worcester-bosch.co.uk/products/boiler-controls"
+            target=""
+            data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-products-boiler-controls"
+        >
+
+            Controls
+
+                    </a>
+    </li>
+<li>
+        <a href="https://www.worcester-bosch.co.uk/products/cylinders"
+            target=""
+            data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-products-cylinders"
+        >
+
+            Cylinders
+
+                    </a>
+    </li>
+<li>
+        <a href="https://www.worcester-bosch.co.uk/products/solar"
+            target=""
+            data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-products-solar"
+        >
+
+            Solar
+
+                    </a>
+    </li>
+<li>
+        <a href="https://www.worcester-bosch.co.uk/products/heat-pumps"
+            target=""
+            data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-products-heat-pumps"
+        >
+
+            Heat Pumps
+
+                    </a>
+    </li>
+<li>
+        <a href="https://www.worcester-bosch.co.uk/Declaration-of-conformity-internet"
+            target=""
+            data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="defined-support-relevant-connectable-products"
+        >
+
+            PSTI - Support Period
+
+                    </a>
+    </li>
+<li>
+        <a href="https://www.worcester-bosch.co.uk/Declaration-of-conformity-network"
+            target=""
+            data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="statement-compliance-relevant-connectable-products"
+        >
+
+            PSTI - Statement of Compliance
+
+                    </a>
+    </li>
+        </ul>
+    
+    </div>
+                                <div class="footer-column">
+            <h3 class="-size-l">Support</h3>
+        <ul>
+            <li>
+        <a href="https://www.worcester-bosch.co.uk/support/guarantees/create"
+            target=""
+            data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-support-guarantee"
+        >
+
+            Guarantee
+
+                    </a>
+    </li>
+<li>
+        <a href="https://www.worcester-bosch.co.uk/support/troubleshooting"
+            target=""
+            data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-support-help"
+        >
+
+            Help
+
+                    </a>
+    </li>
+<li>
+        <a href="https://www.worcester-bosch.co.uk/support/manuals-and-brochures"
+            target=""
+            data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-support-manuals-brochures"
+        >
+
+            Manuals & Brochures
+
+                    </a>
+    </li>
+<li>
+        <a href="https://www.worcester-bosch.co.uk/support/send-enquiry"
+            target=""
+            data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-support-enquiry-form"
+        >
+
+            Enquiry Form
+
+                    </a>
+    </li>
+<li>
+        <a href="https://www.worcester-bosch.co.uk/support/customer-support"
+            target=""
+            data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-support-customer-support"
+        >
+
+            Customer Support
+
+                    </a>
+    </li>
+<li>
+        <a href="https://www.worcester-bosch.co.uk/support/customer-relations"
+            target=""
+            data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-support-customer-relations"
+        >
+
+            Customer Relations
+
+                    </a>
+    </li>
+<li>
+        <a href="https://psirt.bosch.com"
+            target=""
+            data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="report-security-issues"
+        >
+
+            Report security issues
+
+                    </a>
+    </li>
+        </ul>
+    
+    </div>
+                                <div class="footer-column">
+            <h3 class="-size-l">About</h3>
+        <ul>
+            <li>
+        <a href="https://www.worcester-bosch.co.uk/about/history"
+            target=""
+            data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-about-history"
+        >
+
+            History
+
+                    </a>
+    </li>
+<li>
+        <a href="https://www.worcester-bosch.co.uk/about/contacts"
+            target=""
+            data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-about-contact-us"
+        >
+
+            Contact Us
+
+                    </a>
+    </li>
+<li>
+        <a href="https://www.worcester-bosch.co.uk/about/corporate-social-responsibility"
+            target=""
+            data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-about-environment-community"
+        >
+
+            Environment & Community
+
+                    </a>
+    </li>
+<li>
+        <a href="https://www.worcester-bosch.co.uk/about/news"
+            target=""
+            data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-about-news"
+        >
+
+            News
+
+                    </a>
+    </li>
+<li>
+        <a href="https://www.bosch.co.uk/careers/"
+            target="_blank"
+            data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-about-careers"
+        >
+
+            Careers
+
+                    </a>
+    </li>
+<li>
+        <a href="https://www.worcester-bosch.co.uk/about/world-of-bosch"
+            target=""
+            data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-about-world-of-bosch"
+        >
+
+            World of Bosch
+
+                    </a>
+    </li>
+        </ul>
+    
+    </div>
+                                <div class="footer-column">
+            <h3 class="-size-l">Keep in touch</h3>
+        <ul>
+            <li class="a-link a-link--simple">
+    <a href="https://www.facebook.com/worcesterboschuk/" 
+        target="_blank" 
+        data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-keep-in-touch-facebook"
+        aria-label="External Link to Facebook"
+    >
+        <i class="a-icon a-button__icon boschicon-bosch-ic-facebook"></i>
+    </a>
+</li><li class="a-link a-link--simple">
+    <a href="https://www.instagram.com/worcesterbosch/" 
+        target="_blank" 
+        data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-keep-in-touch-instagram"
+        aria-label="External Link to Instagram"
+    >
+        <i class="a-icon a-button__icon boschicon-bosch-ic-instagram"></i>
+    </a>
+</li><li class="a-link a-link--simple">
+    <a href="http://www.twitter.com/WorcsBoschCare" 
+        target="_blank" 
+        data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-keep-in-touch-twitter"
+        aria-label="External Link to Twitter"
+    >
+        <i class="a-icon a-button__icon boschicon-bosch-ic-twitter"></i>
+    </a>
+</li><li class="a-link a-link--simple">
+    <a href="http://www.youtube.com/WorcesterBoschGroup" 
+        target="_blank" 
+        data-analytics
+  data-analytics-category="consumer-footer-menu"
+  data-analytics-action="click"
+  data-analytics-label="consumer-keep-in-touch-youtube"
+        aria-label="External Link to YouTube"
+    >
+        <i class="a-icon a-button__icon boschicon-bosch-ic-youtube"></i>
+    </a>
+</li>        </ul>
+    
+            <picture>
+    <source
+            srcset="/static/img/royal-warrant-colour.webp"
+            type="image/webp"
+            >
+<img
+            style="max-width: 200px; width: 100%;"
+            class="img-responsive"
+            src="/static/img/royal-warrant-colour.webp"
+            alt="Royal Crest"
+            loading="lazy"
+            fetchpriority="low"
+        >
+</picture>
+    </div>
+            </div>
+
+<div class="footer-disclaimer">
+    <small>
+                    <p>&dagger;When installed by a Worcester Bosch Accredited Installer with a Greenstar System Filter. The Greenstar 1000 and Greenstar 2000 guarantee is available as standard to both&nbsp;loyalty scheme members and non-WAI&#39;s, when fitted with any brand of system filter.&nbsp;<a href="https://www.worcester-bosch.co.uk/guarantee-terms-and-conditions" rel="noopener noreferrer" target="_blank">Terms and conditions apply.</a></p>
+
+<p>*Fuel bill savings based on a gas-heated home in Great Britain, when&nbsp;replacing an old gas boiler with a new A-rated condensing boiler with a programmer, room thermostat and thermostatic radiator controls (TRVs). Savings for Great Britain are based on an electricity price of 24.5 p/kWh and a gas price of 6.29 p/kWh, calculated from a weighted average of projected, current and recent energy price caps. Source:<a href="https://energysavingtrust.org.uk/advice/boilers/" rel="noreferrer" target="_blank">&nbsp;Energy Saving Trust</a>​</p>
+
+<p>&nbsp;</p>
+
+<p>Bosch Thermotechnology Ltd T/A Worcester Bosch Group (FRN 918503) is an Appointed Representative of Consumer Credit Compliance Limited who are authorised and regulated by the Financial Conduct Authority (FRN 631736). The permissions of Consumer Credit Compliance Limited as a Principal firm allow Bosch Thermotechnology Ltd T/A Worcester Bosch Group to undertake credit broking. Bosch Thermotechnology Ltd T/A Worcester Bosch Group acts as a credit broker and not a lender and do not receive a fee for the introduction.&nbsp;Worcester Bosch Group will introduce you to a Worcester Accredited Installer who is either directly authorised by the Financial Conduct Authority, or who acts as an Appointed Representative (AR) or Introducer Appointed Representative (IAR) and who either holds or utilises the appropriate permissions of their Principal firm in order to broker the finance agreement. Credit is provided by Novuna Personal Finance, a trading style of Mitsubishi HC Capital UK PLC authorised and regulated by Financial Conduct Authority. Finance options are offered subject to status and credit check which must be completed before commencement of works. A 14 day cooling off period applies to all applications. If cancelled within 14 days, alternative payment of full outstanding balance must be made. Bosch Thermotechnology Ltd, Registered Office Address- Cotswold Way, Warndon, Worcester, WR4 9SW Company registration number in England 1993294.&nbsp;Tel: 0330 123 9559. Email: <a href="mailto:service.mailbox@uk.bosch.com" style="color:#0563c1; text-decoration:underline">service.mailbox@uk.bosch.com</a></p>
+
+<p><em>**Representative example - 10.9% APR Interest Bearing Credit - Cash price: &pound;2,800, Deposit: &pound;700, Total amount of credit: &pound;2,100, Term: 120 months, 120 Monthly payments: &pound;28.21, APR representative: 10.9%, Fixed rate of interest: 10.9%, Total amount payable: &pound;4,085.20, Total charge for credit: &pound;1,285.20</em></p>
+
+<p>&nbsp;</p>
+            </small>
+    
+</div>
+
+        <hr class="a-divider" />
+        <div class="o-footer__bottom">
+            <ul class="o-footer__links">
+                                    <li>
+                        <a href="https://www.worcester-bosch.co.uk/vulnerable-customers">Vulnerable Customer Policy</a>
+                    </li>
+                    <li>
+                        <a href="https://www.worcester-bosch.co.uk/support/customer-relations">Complaints Policy</a>
+                    </li>
+                                                                                <li>
+                    <a href="https://www.worcester-bosch.co.uk/corporate-information">Corporate Information</a>
+                </li>
+                <li>
+                    <a href="https://www.worcester-bosch.co.uk/modern-slavery-statement">Modern Slavery Statement</a>
+                </li>
+                <li>
+                    <a href="https://show-policy.ttprivacy.com/b801db4e-96cb-49f1-9ed2-d977ceb23278" target="_blank">Data Protection Notice</a>
+                </li>
+                <li>
+                    <a href="#" onclick="showDockPrivacySettings()">Privacy Settings</a>
+                </li>
+            </ul>
+            <div class="o-footer__copyright">
+                &copy; Bosch Thermotechnology Ltd. 2026, all rights reserved.
+            </div>
+            <div class="frok-back-to-top-mount o-footer__back-to-top"></div>
+        </div>
+    </div>
+</footer>
+
+    <script>function loadFont(z,y){var m=y.className,f=window.document;-1!==f.cookie.indexOf(m)&&(f.documentElement.className+=" "+m);(function(){function g(a){this.a=e;this.b=void 0;this.d=[];var d=this;try{a(function(a){q(d,a)},function(a){k(d,a)})}catch(b){k(d,b)}}function f(a){return new g(function(d,b){b(a)})}function l(a){return new g(function(d){d(a)})}function q(a,d){if(a.a===e){if(d===a)throw new TypeError("Promise resolved with itself.");var b=!1;try{var c=d&&d.then;if(null!==d&&"object"===typeof d&&"function"===typeof c){c.call(d,function(d){b||q(a,d);b=!0},function(d){b||k(a,d);b=!0});return}}catch(h){b||k(a,h);return}a.a=0;a.b=d;n(a)}}function k(a,d){if(a.a===e){if(d===a)throw new TypeError("Promise rejected with itself.");a.a=1;a.b=d;n(a)}}function n(a){setTimeout(function(){if(a.a!==e)for(;a.d.length;){var d=a.d.shift(),b=d[0],c=d[1],h=d[2],d=d[3];try{0===a.a?"function"===typeof b?h(b.call(void 0,a.b)):h(a.b):1===a.a&&("function"===typeof c?h(c.call(void 0,a.b)):d(a.b))}catch(f){d(f)}}},0)}function b(a){return new g(function(b,c){function f(c){return function(e){g[c]=e;h+=1;h===a.length&&b(g)}}var h=0,g=[];0===a.length&&b(g);for(var e=0;e<a.length;e+=1)a[e].c(f(e),c)})}function c(a){return new g(function(b,c){for(var e=0;e<a.length;e+=1)a[e].c(b,c)})}var e=2;g.prototype.e=function(a){return this.c(void 0,a)};g.prototype.c=function(a,b){var c=this;return new g(function(e,f){c.d.push([a,b,e,f]);n(c)})};window.Promise||(window.Promise=g,window.Promise.resolve=l,window.Promise.reject=f,window.Promise.race=c,window.Promise.all=b,window.Promise.prototype.then=g.prototype.c,window.Promise.prototype["catch"]=g.prototype.e)})();(function(){function g(b){this.a=f.createElement("div");this.a.setAttribute("aria-hidden","true");this.a.appendChild(f.createTextNode(b));this.b=f.createElement("span");this.c=f.createElement("span");this.f=f.createElement("span");this.e=f.createElement("span");this.d=-1;this.b.style.cssText="display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;";this.c.style.cssText="display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;";this.e.style.cssText="display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;";this.f.style.cssText="display:inline-block;width:200%;height:200%;";this.b.appendChild(this.f);this.c.appendChild(this.e);this.a.appendChild(this.b);this.a.appendChild(this.c)}function r(b,c,e){b.a.style.cssText="min-width:20px;min-height:20px;display:inline-block;visibility:hidden;position:absolute;width:auto;margin:0;padding:0;top:0;white-space:nowrap;font-size:100px;font-family:"+c+";"+e}function l(b){var c=b.a.offsetWidth,e=c+100;b.e.style.width=e+"px";b.c.scrollLeft=e;b.b.scrollLeft=b.b.scrollWidth+100;return b.d!==c?(b.d=c,!0):!1}function q(b,c){b.b.addEventListener("scroll",function(){l(b)&&null!==b.a.parentNode&&c(b.d)},!1);b.c.addEventListener("scroll",function(){l(b)&&null!==b.a.parentNode&&c(b.d)},!1);l(b)}function k(b,c){this.family=b;this.style=c.style||"normal";this.variant=c.variant||"normal";this.weight=c.weight||"normal";this.stretch=c.stretch||"stretch";this.featureSettings=c.featureSettings||"normal"}var n=null;k.prototype.a=function(b){b=b||"BESbswy";var c="font-style:"+this.style+";font-variant:"+this.variant+";font-weight:"+this.weight+";font-stretch:"+this.stretch+";font-feature-settings:"+this.featureSettings+";-moz-font-feature-settings:"+this.featureSettings+";-webkit-font-feature-settings:"+this.featureSettings+";",e=f.createElement("div"),a=new g(b),d=new g(b),k=new g(b),p=-1,h=-1,t=-1,l=-1,m=-1,v=-1,u=this;r(a,"sans-serif",c);r(d,"serif",c);r(k,"monospace",c);e.appendChild(a.a);e.appendChild(d.a);e.appendChild(k.a);f.body.appendChild(e);l=a.a.offsetWidth;m=d.a.offsetWidth;v=k.a.offsetWidth;return new Promise(function(b,g){function w(){null!==e.parentNode&&f.body.removeChild(e)}function x(){if(-1!==p&&-1!==h&&-1!==t&&p===h&&h===t){if(null===n){var a=/AppleWeb[kK]it\/([0-9]+)(?:\.([0-9]+))/.exec(window.navigator.userAgent);n=!!a&&(536>parseInt(a[1],10)||536===parseInt(a[1],10)&&11>=parseInt(a[2],10))}n?p===l&&h===l&&t===l||p===m&&h===m&&t===m||p===v&&h===v&&t===v||(w(),b(u)):(w(),b(u))}}setTimeout(function(){w();g(u)},3E3);q(a,function(a){p=a;x()});r(a,u.family+",sans-serif",c);q(d,function(a){h=a;x()});r(d,u.family+",serif",c);q(k,function(a){t=a;x()});r(k,u.family+",monospace",c)})};window.FontFaceObserver=k;window.FontFaceObserver.prototype.check=k.prototype.a})();var A=y.styles.map(function(f){return(new FontFaceObserver(z,{weight:f[0],style:f[1]})).check()});Promise.all(A).then(function(){f.documentElement.className+=" "+m;f.cookie=m+"="+new Date+';expires="Tue, 19 Jan 2038 03:14:07 GMT";path=/'})};
+
+loadFont('Open Sans', {
+    className: 'fonts-enhanced',
+    styles: [
+        [400, 'normal'],
+        [400, 'italic'],
+        [600, 'normal'],
+        [700, 'normal'],
+    ]
+});
+
+loadFont('Bosch Sans', {
+    className: 'fonts-enhanced',
+    styles: [
+      [400, 'normal'],
+      [400, 'italic'],
+      [600, 'normal'],
+    ]
+  });
+
+</script>
+
+<script src="https://www.worcester-bosch.co.uk/js/jquery-3.6.0.min.js"></script>
+
+<script>
+    $.ajaxSetup({
+        headers: {
+            'X-CSRF-TOKEN': '27hGGW1Ih9ypxJaSXVwNnnr8K0zOMNMia0Q0TSUi'
+        }
+    });
+</script>
+
+<script type="text/javascript" src="/js/app.min.a3c6089e.js"></script>
+<script type="text/javascript" src="/js/common.fe983090.js"></script>
+<script type="text/javascript" src="/js/redesign.62524ff2.js"></script>
+
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+  window.fbq = function () {
+  };
+</script>
+<script type="text/plain" data-bosch-privacy-consent="marketing">
+!function(f,b,e,v,n,t,s)
+{n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '320577796206082');
+fbq('track', 'PageView');
+fbq('track', 'ViewContent');
+
+</script>
+<noscript>
+  <img height="1" width="1"
+       src="https://www.facebook.com/tr?id=320577796206082&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+<script type="text/plain" data-bosch-privacy-consent="marketing" data-script-area="head" data-script-type="link" src="//platform.twitter.com/oct.js"></script>
+<script type="text/plain" data-bosch-privacy-consent="marketing">if (typeof window.twttr !== 'undefined') { twttr.conversion.trackPid('ntkx7', { tw_sale_amount: 0, tw_order_quantity: 0 }) }</script>
+<noscript>
+  <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=ntkx7&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+  <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=ntkx7&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+</noscript>
+<script type="text/plain" data-bosch-privacy-consent="marketing">
+  _linkedin_partner_id = "1184121";
+  window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+  window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script>
+
+<script type="text/plain" data-bosch-privacy-consent="marketing"> (function () {
+    var s = document.getElementsByTagName("script")[0];
+    var b = document.createElement("script");
+    b.type = "text/javascript";
+    b.async = true;
+    b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+    s.parentNode.insertBefore(b, s);
+  })(); </script>
+<noscript>
+  <img height="1" width="1" style="display:none;" alt=""
+       src="https://dc.ads.linkedin.com/collect/?pid=1184121&fmt=gif"/>
+</noscript>
+        <script type="text/javascript" src="/js/header-mm.43159b12.js"></script>
+    
+<script type="text/javascript" src="/js/site-search.ce3ff582.js"></script>
+
+<script>defer.resolve();</script>
+
+<!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com -->
+
+  <script type="text/javascript"
+          src="https://a.omappapi.com/app/js/api.min.js"
+          data-account="67159"
+          data-user="59642"
+          async>
+  </script>
+
+  <!-- / OptinMonster -->
+<!-- / https://optinmonster.com -->
+<script>
+  let dockPrivacySettings;
+  (async () => {
+    await customElements.whenDefined("dock-privacy-settings");
+    dockPrivacySettings = document.querySelector("dock-privacy-settings");
+  })();
+
+  function showDockPrivacySettings() {
+    dockPrivacySettings.setAttribute("visible", "true");
+  }
+
+  const setScriptTag = function(consents) {
+    let marketingScripts = document.querySelectorAll("[bosch-privacy-consent], [data-bosch-privacy-consent]");
+    for (let i = 0; i < marketingScripts.length; i++) {
+      let current = marketingScripts[i];
+      let parent = current.parentNode;
+      let scriptType = current.getAttribute("bosch-privacy-consent") || current.getAttribute("data-bosch-privacy-consent");
+
+      if ((scriptType === 'marketing' && consents.marketing) || (scriptType === 'analysis' && consents.analysis)) {
+        let scriptEl = document.createElement("script");
+        if (current.getAttribute("data-script-type") === 'link') {
+          scriptEl.src = current.src.replace('https:', '');
+        }
+        scriptEl.innerHTML = current.innerHTML;
+        scriptEl.setAttribute("data-tag", "tracking");
+        if (current.getAttribute("data-script-area") === 'head') {
+          document.head.appendChild(scriptEl);
+        } else {
+          document.body.appendChild(scriptEl);
+        }
+        parent.removeChild(current);
+      }
+    }
+  }
+</script>
+          </div>
+  </div>
+  
+
+</body>
+
+</html>
