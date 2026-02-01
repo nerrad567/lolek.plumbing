@@ -382,10 +382,10 @@ img {
 
 /* Features Carousel */
 .features-carousel-box {
-    margin-top: 50px;
-    padding-top: 40px;
+    margin-top: 35px;
+    padding-top: 25px;
     border-top: 1px solid rgba(255, 255, 255, 0.15);
-    max-width: 550px;
+    max-width: 480px;
     position: relative;
 }
 
@@ -397,18 +397,18 @@ img {
 .feature-slide {
     display: flex;
     align-items: center;
-    gap: 25px;
+    gap: 15px;
     background: linear-gradient(135deg, rgba(52, 152, 219, 0.25) 0%, rgba(52, 152, 219, 0.08) 100%);
-    padding: 30px 35px;
-    border-radius: 20px;
+    padding: 18px 22px;
+    border-radius: 14px;
     border: 2px solid rgba(52, 152, 219, 0.4);
-    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
 }
 
 .feature-slide .feature-icon {
-    font-size: 4rem;
+    font-size: 3rem;
     flex-shrink: 0;
-    width: 90px;
+    width: 65px;
     text-align: center;
     line-height: 1;
 }
@@ -418,16 +418,16 @@ img {
 }
 
 .feature-slide-text h3 {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     color: var(--blue);
-    margin-bottom: 10px;
+    margin-bottom: 6px;
     font-weight: 700;
 }
 
 .feature-slide-text p {
-    font-size: 1.05rem;
+    font-size: 0.95rem;
     color: rgba(255, 255, 255, 0.9);
-    line-height: 1.5;
+    line-height: 1.4;
     margin: 0;
 }
 
@@ -927,20 +927,21 @@ img {
     }
     
     .feature-slide {
-        padding: 25px 30px;
+        padding: 15px 18px;
+        gap: 12px;
     }
     
     .feature-slide .feature-icon {
-        font-size: 3.5rem;
-        width: 80px;
+        font-size: 3rem;
+        width: 70px;
     }
     
     .feature-slide-text h3 {
-        font-size: 1.35rem;
+        font-size: 1.2rem;
     }
     
     .feature-slide-text p {
-        font-size: 1rem;
+        font-size: 0.95rem;
     }
     
     .feature-list {
@@ -1043,21 +1044,21 @@ img {
     .feature-slide {
         flex-direction: column;
         text-align: center;
-        padding: 25px 20px;
-        gap: 15px;
+        padding: 14px 16px;
+        gap: 8px;
     }
     
     .feature-slide .feature-icon {
-        width: 70px;
-        font-size: 3rem;
+        width: 60px;
+        font-size: 2.5rem;
     }
     
     .feature-slide-text h3 {
-        font-size: 1.3rem;
+        font-size: 1.15rem;
     }
     
     .feature-slide-text p {
-        font-size: 0.95rem;
+        font-size: 0.9rem;
     }
 }
 
@@ -1117,21 +1118,21 @@ img {
     .feature-slide {
         flex-direction: column;
         text-align: center;
-        padding: 20px 15px;
-        gap: 10px;
+        padding: 12px 14px;
+        gap: 6px;
     }
     
     .feature-slide .feature-icon {
-        font-size: 2.5rem;
+        font-size: 2.2rem;
         width: auto;
     }
     
     .feature-slide-text h3 {
-        font-size: 1.1rem;
+        font-size: 1rem;
     }
     
     .feature-slide-text p {
-        font-size: 0.9rem;
+        font-size: 0.85rem;
     }
     
     /* Projects carousel fallback */
