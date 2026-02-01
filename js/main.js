@@ -151,10 +151,10 @@
         //     initGSAP();
         // }
         
-        // DISABLED FOR DEBUGGING - Check if Swiper loaded
-        // if (typeof Swiper !== 'undefined') {
-        //     initSwipers();
-        // }
+        // Only init Swiper on desktop (mobile causes layout issues)
+        if (typeof Swiper !== 'undefined' && window.innerWidth > 768) {
+            initSwipers();
+        }
     });
     
     function initGSAP() {
