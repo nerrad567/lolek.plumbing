@@ -1365,28 +1365,47 @@ img {
 /* Better reviews section spacing on mobile */
 @media (max-width: 768px) {
     .reviews-section {
-        padding-left: 70px;
-        padding-right: 20px;
+        padding-left: 0;
+        padding-right: 0;
+        margin-left: 70px;
+        margin-right: 15px;
     }
     
     .reviews-section h3 {
-        margin-bottom: 20px;
+        margin-bottom: 15px;
+        font-size: 1.2rem;
     }
     
     .reviews-swiper {
         padding-left: 0 !important;
         margin-left: 0 !important;
+        padding-right: 0 !important;
     }
     
     .reviews-swiper .swiper-slide {
-        flex: 0 0 calc(100vw - 110px) !important;
-        width: calc(100vw - 110px) !important;
+        flex: 0 0 calc(100vw - 120px) !important;
+        width: calc(100vw - 120px) !important;
     }
     
     /* Review card styling */
     .review-card {
-        padding: 20px;
+        padding: 15px;
         margin: 0;
-        border-radius: 12px;
+        border-radius: 10px;
+    }
+    
+    .review-card .stars {
+        font-size: 0.95rem;
+        margin-bottom: 8px;
+    }
+    
+    .review-card p {
+        font-size: 0.85rem;
+        line-height: 1.45;
+        margin-bottom: 10px;
+    }
+    
+    .review-card footer {
+        font-size: 0.75rem;
     }
 }
