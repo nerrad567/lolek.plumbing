@@ -1088,32 +1088,39 @@ img {
 /* ===== MOBILE SWIPER FALLBACK ===== */
 /* Swiper CSS doesn't load on mobile, so we need fallback styles */
 @media (max-width: 768px) {
-    /* Features as static stack */
+    /* Features as horizontal swipeable carousel */
     .features-carousel-box {
         margin-top: 30px;
-        padding-top: 30px;
+        padding-top: 20px;
+        margin-left: 10px;
+        margin-right: 15px;
     }
     
     .features-swiper {
-        overflow: visible;
+        overflow-x: auto !important;
+        scroll-snap-type: x mandatory;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
     }
     
-    .features-swiper .swiper-wrapper {
-        display: flex;
-        flex-direction: column;
-        gap: 15px;
-    }
-    
-    .features-swiper .swiper-slide {
-        width: 100%;
-    }
-    
-    .features-pagination {
+    .features-swiper::-webkit-scrollbar {
         display: none;
     }
     
-    /* Show only first 2 features on mobile to save space */
-    .features-swiper .swiper-slide:nth-child(n+3) {
+    .features-swiper .swiper-wrapper {
+        display: flex !important;
+        flex-direction: row !important;
+        flex-wrap: nowrap !important;
+        gap: 12px;
+    }
+    
+    .features-swiper .swiper-slide {
+        flex: 0 0 calc(100vw - 140px) !important;
+        width: calc(100vw - 140px) !important;
+        scroll-snap-align: center;
+    }
+    
+    .features-pagination {
         display: none;
     }
     
