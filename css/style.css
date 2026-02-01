@@ -1032,6 +1032,7 @@ img {
     
     .services-grid {
         grid-template-columns: 1fr;
+        margin-left: 20px;
     }
     
     .contact-phone {
