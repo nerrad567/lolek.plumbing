@@ -1385,8 +1385,9 @@ img {
     }
     
     .reviews-swiper .swiper-slide {
-        flex: 0 0 calc(100vw - 100px) !important;
-        width: calc(100vw - 100px) !important;
+        flex: 0 0 calc(100vw - 140px) !important;
+        width: calc(100vw - 140px) !important;
+        max-width: 280px;
     }
     
     /* Review card styling */
