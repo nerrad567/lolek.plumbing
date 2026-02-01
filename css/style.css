@@ -1126,3 +1126,23 @@ html, body {
     overflow-x: hidden !important;
     max-width: 100vw !important;
 }
+
+/* More aggressive Swiper fix */
+.panel, .panel-content, .hero-text, .home-grid {
+    touch-action: pan-y !important;
+    -webkit-overflow-scrolling: touch;
+}
+
+.swiper-wrapper {
+    touch-action: pan-y !important;
+}
+
+/* Force containment */
+.features-carousel-box,
+.features-swiper,
+.project-swiper,
+.reviews-swiper {
+    transform: translateZ(0);
+    will-change: transform;
+    backface-visibility: hidden;
+}
