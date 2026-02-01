@@ -1214,3 +1214,77 @@ img {
         width: 30px !important;
     }
 }
+
+/* ===== MOBILE PROJECTS - CSS Scroll Snap ===== */
+@media (max-width: 768px) {
+    /* Projects section swipeable cards */
+    .project-swiper {
+        overflow-x: auto !important;
+        scroll-snap-type: x mandatory;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+        -ms-overflow-style: none;
+    }
+    
+    .project-swiper::-webkit-scrollbar {
+        display: none;
+    }
+    
+    .project-swiper .swiper-wrapper {
+        display: flex !important;
+        flex-direction: row !important;
+        flex-wrap: nowrap !important;
+        gap: 15px;
+        padding: 10px 0;
+    }
+    
+    .project-swiper .swiper-slide {
+        flex: 0 0 75vw !important;
+        width: 75vw !important;
+        scroll-snap-align: center;
+        border-radius: 12px;
+        overflow: hidden;
+    }
+    
+    .project-swiper .swiper-slide img {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 4/3;
+        object-fit: cover;
+    }
+    
+    /* Reviews also swipeable */
+    .reviews-swiper {
+        overflow-x: auto !important;
+        scroll-snap-type: x mandatory;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+    }
+    
+    .reviews-swiper::-webkit-scrollbar {
+        display: none;
+    }
+    
+    .reviews-swiper .swiper-wrapper {
+        display: flex !important;
+        flex-direction: row !important;
+        flex-wrap: nowrap !important;
+        gap: 15px;
+        padding: 10px 0;
+    }
+    
+    .reviews-swiper .swiper-slide {
+        flex: 0 0 85vw !important;
+        width: 85vw !important;
+        scroll-snap-align: center;
+    }
+    
+    /* Hint that it's swipeable - show partial next card */
+    .project-swiper,
+    .reviews-swiper {
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-left: -20px;
+        margin-right: -20px;
+    }
+}
