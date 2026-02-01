@@ -298,9 +298,10 @@
     }
     
     function initSwipers() {
-        // Features carousel on home
+        // Features carousel DISABLED on mobile - causes layout issues
+        // Only init on desktop (width > 768px)
         const featuresEl = document.querySelector('.features-swiper');
-        if (featuresEl) {
+        if (featuresEl && window.innerWidth > 768) {
             new Swiper(featuresEl, {
                 slidesPerView: 1,
                 spaceBetween: 20,
