@@ -151,10 +151,10 @@
         //     initGSAP();
         // }
         
-        // Check if Swiper loaded
-        if (typeof Swiper !== 'undefined') {
-            initSwipers();
-        }
+        // DISABLED FOR DEBUGGING - Check if Swiper loaded
+        // if (typeof Swiper !== 'undefined') {
+        //     initSwipers();
+        // }
     });
     
     function initGSAP() {
