@@ -1046,10 +1046,10 @@ img {
         margin-left: 20px;
     }
     
-    /* About section mobile - centered with nav offset */
+    /* About section mobile - centered */
     .panel-about .panel-content {
-        padding-left: calc(50px + 3vw);
-        padding-right: 3vw;
+        padding-left: 15px;
+        padding-right: 15px;
         text-align: center;
     }
     
