@@ -1320,3 +1320,16 @@ img {
         overflow: hidden;
     }
 }
+
+/* Hide ALL pagination circles on mobile */
+@media (max-width: 768px) {
+    .swiper-pagination,
+    .features-pagination,
+    .swiper-pagination-bullet,
+    .swiper-pagination-bullets,
+    [class*="pagination"] {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+    }
+}
