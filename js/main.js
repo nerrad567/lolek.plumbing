@@ -189,6 +189,9 @@
         // Check if GSAP loaded - skip heavy animations on mobile for performance
         if (typeof gsap !== 'undefined' && window.innerWidth > 768) {
             initGSAP();
+        } else {
+            // Simple scroll tracking for mobile (no GSAP)
+            initMobileNavTracking();
         }
         
         // Only init Swiper on desktop (mobile causes layout issues)
@@ -335,6 +338,34 @@
         document.querySelectorAll('.nav-icon').forEach(icon => {
             icon.classList.toggle('active', icon.dataset.panel === id);
         });
+    }
+    
+    function initMobileNavTracking() {
+        const panels = document.querySelectorAll('.panel');
+        let ticking = false;
+        
+        window.addEventListener('scroll', function() {
+            if (!ticking) {
+                requestAnimationFrame(function() {
+                    const scrollPos = window.scrollY + window.innerHeight / 3;
+                    
+                    panels.forEach(panel => {
+                        const top = panel.offsetTop;
+                        const bottom = top + panel.offsetHeight;
+                        
+                        if (scrollPos >= top && scrollPos < bottom) {
+                            updateActiveNav(panel.id);
+                        }
+                    });
+                    
+                    ticking = false;
+                });
+                ticking = true;
+            }
+        });
+        
+        // Set initial active state
+        updateActiveNav('home');
     }
     
     function initSwipers() {
