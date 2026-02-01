@@ -1111,3 +1111,12 @@ img {
     opacity: 1 !important;
     visibility: visible !important;
 }
+
+/* Fix Swiper overflow issue on mobile */
+.features-carousel-box {
+    overflow: hidden !important;
+    contain: layout style;
+}
+.features-swiper {
+    overflow: hidden !important;
+}
