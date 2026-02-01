@@ -218,6 +218,23 @@ img {
     transform: none !important;
 }
 
+.panel-home .hero-text,
+.panel-home .home-grid,
+.panel-home .features-carousel-box,
+.panel-home .feature-slide {
+    opacity: 1 !important;
+    visibility: visible !important;
+    display: block !important;
+}
+
+.panel-home .home-grid {
+    display: grid !important;
+}
+
+.panel-home .feature-slide {
+    display: flex !important;
+}
+
 /* ===== PANEL: HOME ===== */
 .panel-home {
     background-color: #2d3a4b;
