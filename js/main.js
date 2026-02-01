@@ -146,10 +146,10 @@
             panel.style.backgroundImage = `url(${panel.dataset.bg})`;
         });
         
-        // DISABLED FOR DEBUGGING - Check if GSAP loaded
-        // if (typeof gsap !== 'undefined') {
-        //     initGSAP();
-        // }
+        // Check if GSAP loaded
+        if (typeof gsap !== 'undefined') {
+            initGSAP();
+        }
         
         // Only init Swiper on desktop (mobile causes layout issues)
         if (typeof Swiper !== 'undefined' && window.innerWidth > 768) {
