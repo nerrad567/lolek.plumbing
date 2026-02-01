@@ -1046,6 +1046,58 @@ img {
         margin-left: 20px;
     }
     
+    /* About section mobile */
+    .panel-about .panel-content {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    
+    .panel-about .section-text {
+        margin-left: 50px;
+    }
+    
+    .panel-about .section-text h2 {
+        font-size: 1.8rem;
+        margin-bottom: 5px;
+    }
+    
+    .panel-about .section-text h3 {
+        font-size: 1.1rem;
+        margin-bottom: 12px;
+    }
+    
+    .panel-about .section-text p {
+        font-size: 0.9rem;
+        line-height: 1.5;
+        margin-bottom: 10px;
+    }
+    
+    .panel-about .feature-list {
+        margin-left: 50px;
+        max-width: none;
+        padding-left: 0;
+    }
+    
+    .panel-about .feature-list li {
+        font-size: 0.9rem;
+        padding-left: 25px;
+        margin-bottom: 6px;
+    }
+    
+    .panel-about .stats-row {
+        margin-left: 50px;
+        gap: 25px;
+        margin-top: 20px;
+    }
+    
+    .panel-about .stat-value {
+        font-size: 2rem;
+    }
+    
+    .panel-about .stat-label {
+        font-size: 0.75rem;
+    }
+    
     .contact-phone {
         font-size: 2rem;
     }
