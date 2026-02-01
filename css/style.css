@@ -1333,3 +1333,18 @@ img {
         opacity: 0 !important;
     }
 }
+
+/* Hide Swiper coverflow shadows and effects on mobile */
+@media (max-width: 768px) {
+    .swiper-slide-shadow,
+    .swiper-slide-shadow-left,
+    .swiper-slide-shadow-right,
+    .swiper-slide-shadow-top,
+    .swiper-slide-shadow-bottom,
+    .swiper-cube-shadow,
+    .swiper-slide-shadow-coverflow,
+    [class*="shadow"] {
+        display: none !important;
+        opacity: 0 !important;
+    }
+}
