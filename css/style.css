@@ -212,9 +212,10 @@ img {
     perspective: 1000px;
 }
 
-/* Ensure home panel content is visible even before JS runs */
+/* Ensure home panel content is always visible (not animated by GSAP) */
 .panel-home .panel-content {
-    opacity: 1;
+    opacity: 1 !important;
+    transform: none !important;
 }
 
 /* ===== PANEL: HOME ===== */
