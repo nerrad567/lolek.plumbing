@@ -1015,6 +1015,7 @@ img {
     
     .panel {
         padding: 60px 20px 60px 50px;
+        background-attachment: scroll !important;
     }
     
     .gas-badge img {

@@ -186,8 +186,8 @@
             panel.style.backgroundImage = `url(${panel.dataset.bg})`;
         });
         
-        // Check if GSAP loaded
-        if (typeof gsap !== 'undefined') {
+        // Check if GSAP loaded - skip heavy animations on mobile for performance
+        if (typeof gsap !== 'undefined' && window.innerWidth > 768) {
             initGSAP();
         }
         
