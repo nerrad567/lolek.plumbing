@@ -1046,15 +1046,16 @@ img {
         margin-left: 20px;
     }
     
-    /* About section mobile - all centered */
+    /* About section mobile - centered with nav offset */
     .panel-about .panel-content {
-        padding-left: 60px;
-        padding-right: 15px;
+        padding-left: 70px;
+        padding-right: 20px;
         text-align: center;
     }
     
     .panel-about .section-text {
         margin: 0 auto;
+        max-width: 100%;
     }
     
     .panel-about .section-text h2 {
@@ -1074,9 +1075,11 @@ img {
     }
     
     .panel-about .feature-list {
-        display: inline-block;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
         text-align: left;
-        margin: 15px auto;
+        margin: 15px 0;
         max-width: none;
         padding-left: 0;
     }
@@ -1085,6 +1088,7 @@ img {
         font-size: 0.9rem;
         padding-left: 25px;
         margin-bottom: 8px;
+        width: auto;
     }
     
     .panel-about .stats-row {
