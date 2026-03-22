@@ -1,0 +1,123 @@
+{
+  "nav": {
+    "home": "Strona",
+    "about": "O Nas",
+    "services": "Usługi",
+    "work": "Projekty",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "tagline": "Colchester, Essex",
+    "subtitle": "Certyfikowany Inżynier Ogrzewania i Hydraulik",
+    "desc": "Niezawodny profesjonalny hydraulik i inżynier ogrzewania z Colchester, Essex.",
+    "descHighlight": "Bez opłaty za wyjazd!",
+    "ctaDiscover": "Dowiedz Się Więcej",
+    "ctaCall": "Zadzwoń",
+    "smart": "Instalujemy bezprzewodowe i inteligentne sterowanie ogrzewaniem. Oszczędzaj na rachunkach za energię!",
+    "scroll": "Przewiń"
+  },
+  "features": {
+    "smart": {
+      "title": "Inteligentne Ogrzewanie",
+      "desc": "Hive, Nest, Tado — bezprzewodowe termostaty i inteligentne sterowanie. Obniż rachunki za energię nawet o 30%."
+    },
+    "emergency": {
+      "title": "Wezwania Awaryjne",
+      "desc": "Pęknięta rura? Brak ogrzewania? Oferujemy szybką reakcję w nagłych wypadkach — często tego samego dnia."
+    },
+    "nocallout": {
+      "title": "Bez Opłaty za Wyjazd",
+      "desc": "Darmowe wyceny, bez opłat za dojazd. Płacisz tylko za wykonaną pracę. Uczciwe, przejrzyste ceny."
+    },
+    "rated": {
+      "title": "Ocena 5 Gwiazdek",
+      "desc": "Ponad 50 zweryfikowanych opinii 5-gwiazdkowych. Zaufanie właścicieli domów w Colchester, Ipswich i Essex."
+    },
+    "gassafe": {
+      "title": "Certyfikat Gas Safe",
+      "desc": "W pełni zarejestrowany inżynier Gas Safe. Wszystkie prace gazowe certyfikowane i zgodne z przepisami."
+    },
+    "local": {
+      "title": "Prawdziwie Lokalny",
+      "desc": "Baza w Colchester, obsługujemy Essex i Suffolk. Szybki czas reakcji w całym regionie."
+    }
+  },
+  "about": {
+    "title": "O Nas",
+    "subtitle": "Doświadczenie i Niezawodność",
+    "desc1": "Ocena 5 gwiazdek — oferujemy kompleksowe usługi obejmujące nowe kotły i systemy grzewcze, coroczne przeglądy i serwis kotłów, certyfikaty dla właścicieli, remonty łazienek.",
+    "desc2": "Twój lokalny przyjazny i niezawodny hydraulik z Colchester, Essex.",
+    "gassafe": "Certyfikat Gas Safe",
+    "insured": "Pełne Ubezpieczenie",
+    "nocallout": "Bez Opłaty za Wyjazd",
+    "freequotes": "Darmowe Wyceny",
+    "guaranteed": "Gwarancja na Prace",
+    "flexible": "Elastyczne Godziny",
+    "statsReviews": "5-gwiazdkowych opinii",
+    "statsCallout": "Opłata za wyjazd",
+    "cta": "Zobacz Usługi"
+  },
+  "services": {
+    "title": "Nasze Usługi",
+    "boilers": {
+      "title": "Kotły",
+      "desc": "Instalacja, naprawy, serwis. Wszystkie główne marki. Certyfikat Gas Safe z gwarancją."
+    },
+    "bathrooms": {
+      "title": "Łazienki",
+      "desc": "Pełne instalacje. Prysznice, mokre pokoje, zestawy. Od projektu do realizacji."
+    },
+    "heating": {
+      "title": "Ogrzewanie",
+      "desc": "Grzejniki, ogrzewanie podłogowe, płukanie. Pełne modernizacje systemów."
+    },
+    "smart": {
+      "title": "Inteligentne Sterowanie",
+      "desc": "Hive, Nest, Tado. Bezprzewodowe termostaty. Obniż rachunki za energię."
+    },
+    "plumbing": {
+      "title": "Hydraulika",
+      "desc": "Wycieki, krany, toalety, rury. Żadne zlecenie nie jest za małe. Szybka reakcja."
+    },
+    "landlord": {
+      "title": "Certyfikaty",
+      "desc": "Certyfikaty bezpieczeństwa gazowego CP12. Wydanie tego samego dnia. Świetne ceny."
+    }
+  },
+  "work": {
+    "title": "Ostatnie Projekty",
+    "reviewsTitle": "Co Mówią Klienci",
+    "projects": {
+      "bathroom": { "title": "Zestawy Łazienkowe", "desc": "Pełny remont" },
+      "shower": { "title": "Kabiny Prysznicowe", "desc": "Prysznice i mokre pokoje" },
+      "pipework": { "title": "Instalacje Rurowe", "desc": "Nowe i naprawy" },
+      "boiler": { "title": "Instalacje Kotłów", "desc": "Certyfikat Gas Safe" },
+      "heating": { "title": "Systemy Grzewcze", "desc": "Grzejniki i podłogowe" },
+      "finished": { "title": "Ukończone Prace", "desc": "Zrobione" },
+      "more": { "title": "Więcej Projektów", "desc": "Zobacz prace" },
+      "quality": { "title": "Ostatnie Zlecenie", "desc": "Okolice Colchester" }
+    }
+  },
+  "contact": {
+    "title": "Skontaktuj Się",
+    "intro": "Zadzwoń lub napisz SMS. Darmowe wyceny, przyjazne porady, bez presji.",
+    "calltext": "Zadzwoń lub napisz do Krisa",
+    "location": "Colchester i Essex",
+    "based": "Baza w Colchester",
+    "areasTitle": "Obsługiwane Obszary",
+    "areasNote": "Nie ma na liście? Zadzwoń — jestem elastyczny jeśli chodzi o dojazd.",
+    "form": {
+      "name": "Twoje Imię",
+      "email": "Adres Email",
+      "phone": "Numer Telefonu",
+      "message": "Wiadomość",
+      "send": "Wyślij Wiadomość",
+      "sending": "Wysyłanie...",
+      "success": "Wiadomość wysłana! Kris odezwie się wkrótce.",
+      "error": "Coś poszło nie tak. Proszę zadzwonić."
+    }
+  },
+  "footer": {
+    "rights": "Wszelkie prawa zastrzeżone."
+  }
+}

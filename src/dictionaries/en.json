@@ -1,0 +1,123 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "work": "Work",
+    "contact": "Contact"
+  },
+  "home": {
+    "tagline": "Colchester, Essex",
+    "subtitle": "Certified Heating Engineer & Plumber",
+    "desc": "Dependable professional plumber and heating engineer located in Colchester, Essex.",
+    "descHighlight": "No call out fee!",
+    "ctaDiscover": "Discover More",
+    "ctaCall": "Call Today",
+    "smart": "We fit wireless and smart heating controls. Save money on your energy bills!",
+    "scroll": "Scroll"
+  },
+  "features": {
+    "smart": {
+      "title": "Smart Heating",
+      "desc": "Hive, Nest, Tado — wireless thermostats and smart controls. Cut your energy bills by up to 30%."
+    },
+    "emergency": {
+      "title": "Emergency Call-Outs",
+      "desc": "Burst pipe? No heating? We offer rapid response for emergencies — often same day service."
+    },
+    "nocallout": {
+      "title": "No Call-Out Fee",
+      "desc": "Free quotes, no call-out charges. You only pay for the work done. Honest, transparent pricing."
+    },
+    "rated": {
+      "title": "5-Star Rated",
+      "desc": "50+ verified 5-star reviews. Trusted by homeowners across Colchester, Ipswich and Essex."
+    },
+    "gassafe": {
+      "title": "Gas Safe Certified",
+      "desc": "Fully registered Gas Safe engineer. All gas work certified and compliant with regulations."
+    },
+    "local": {
+      "title": "Truly Local",
+      "desc": "Based in Colchester, covering Essex and Suffolk. Quick response times across the region."
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Experience & Reliability",
+    "desc1": "Rated 5 stars — we offer a fully comprehensive service including new boilers and heating systems, annual boiler inspections & servicing, landlords certificates, bathroom refurbishments.",
+    "desc2": "Your local friendly and dependable plumber based in Colchester, Essex.",
+    "gassafe": "Gas Safe Registered",
+    "insured": "Fully Insured",
+    "nocallout": "No Call-Out Fee",
+    "freequotes": "Free Quotes",
+    "guaranteed": "All Work Guaranteed",
+    "flexible": "Flexible Hours",
+    "statsReviews": "5-star reviews",
+    "statsCallout": "Call-out fee",
+    "cta": "View Services"
+  },
+  "services": {
+    "title": "Our Services",
+    "boilers": {
+      "title": "Boilers",
+      "desc": "Installation, repairs, servicing. All major brands. Gas Safe certified with warranty."
+    },
+    "bathrooms": {
+      "title": "Bathrooms",
+      "desc": "Full installations. Showers, wet rooms, suites. Design to completion."
+    },
+    "heating": {
+      "title": "Heating",
+      "desc": "Radiators, underfloor heating, power flushing. Full system upgrades."
+    },
+    "smart": {
+      "title": "Smart Controls",
+      "desc": "Hive, Nest, Tado. Wireless thermostats. Cut your energy bills."
+    },
+    "plumbing": {
+      "title": "Plumbing",
+      "desc": "Leaks, taps, toilets, pipework. No job too small. Quick response."
+    },
+    "landlord": {
+      "title": "Landlord Certs",
+      "desc": "CP12 gas safety certificates. Same day issue. Great rates."
+    }
+  },
+  "work": {
+    "title": "Recent Projects",
+    "reviewsTitle": "What Customers Say",
+    "projects": {
+      "bathroom": { "title": "Bathroom Suites", "desc": "Full refit" },
+      "shower": { "title": "Shower Rooms", "desc": "Showers & wetrooms" },
+      "pipework": { "title": "Pipework", "desc": "New runs & repairs" },
+      "boiler": { "title": "Boiler Installs", "desc": "Gas Safe certified" },
+      "heating": { "title": "Heating Systems", "desc": "Radiators & underfloor" },
+      "finished": { "title": "Finished Work", "desc": "Job done" },
+      "more": { "title": "More Projects", "desc": "See the work" },
+      "quality": { "title": "Recent Job", "desc": "Colchester area" }
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "intro": "Give me a call or drop a text. Free quotes, friendly advice, no pressure.",
+    "calltext": "Call or text Kris",
+    "location": "Colchester & Essex",
+    "based": "Based in Colchester",
+    "areasTitle": "Areas Covered",
+    "areasNote": "Not listed? Give me a call — I'm flexible on travel for the right job.",
+    "form": {
+      "name": "Your Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "message": "Message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent! Kris will get back to you soon.",
+      "error": "Something went wrong. Please call instead."
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}
