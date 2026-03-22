@@ -47,7 +47,6 @@ export async function POST(req: Request) {
   const allowedOrigins = [
     "https://www.lolek.plumbing",
     "https://lolek.plumbing",
-    "http://localhost:3000",
   ];
   if (origin && !allowedOrigins.includes(origin)) {
     return NextResponse.json({ error: "Forbidden" }, { status: 403 });
