@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 511.99999 512"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="wrench-lucide.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.5065104"
+     inkscape:cx="144.37338"
+     inkscape:cy="261.19965"
+     inkscape:window-width="2560"
+     inkscape:window-height="1366"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="m 309.77309,129.41683 c -9.26825,9.45179 -9.26825,24.57864 0,34.03042 l 38.90721,38.89191 c 9.45552,9.26461 24.58829,9.26461 34.0438,0 L 474.39921,110.7001 C 529.87954,233.25493 403.92525,359.15969 281.32218,303.70119 L 113.29168,471.66561 C 64.657691,520.28047 -8.2933295,447.35814 40.340663,398.74329 L 208.37118,230.77886 C 160.34427,124.68847 248.27745,16.087776 352.30205,24.798279 c 16.14384,1.351809 32.67525,5.529017 49.14615,12.979503 l -91.43194,91.395988 z"
+     id="path1"
+     sodipodi:nodetypes="ccccccsscsccc"
+     style="fill:none;fill-opacity:1;stroke:#3b82f6;stroke-width:48.6245;stroke-opacity:1" />
+</svg>

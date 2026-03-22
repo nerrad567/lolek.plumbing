@@ -1,4 +1,5 @@
 import { NextResponse } from "next/server";
+import { waitUntil } from "@vercel/functions";
 import nodemailer from "nodemailer";
 
 const rateLimitMap = new Map<string, { count: number; resetAt: number }>();
@@ -31,6 +32,24 @@ function isRateLimited(ip: string): boolean {
 
   entry.count++;
   return entry.count > 5;
+}
+
+// Reuse transporter across requests
+let transporter: nodemailer.Transporter | null = null;
+function getTransporter() {
+  if (!transporter) {
+    const port = Number(process.env.SMTP_PORT) || 465;
+    transporter = nodemailer.createTransport({
+      host: process.env.SMTP_HOST,
+      port,
+      secure: port === 465,
+      auth: {
+        user: process.env.SMTP_USER,
+        pass: process.env.SMTP_PASS,
+      },
+    });
+  }
+  return transporter;
 }
 
 export async function POST(req: Request) {
@@ -77,17 +96,6 @@ export async function POST(req: Request) {
     return NextResponse.json({ error: "Field too long" }, { status: 400 });
   }
 
-  const port = Number(process.env.SMTP_PORT) || 465;
-  const transporter = nodemailer.createTransport({
-    host: process.env.SMTP_HOST,
-    port,
-    secure: port === 465,
-    auth: {
-      user: process.env.SMTP_USER,
-      pass: process.env.SMTP_PASS,
-    },
-  });
-
   const htmlBody = `
     <table style="font-family:sans-serif;border-collapse:collapse;width:100%;max-width:600px">
       <tr><td style="padding:8px;border-bottom:1px solid #eee"><strong>Name</strong></td><td style="padding:8px;border-bottom:1px solid #eee">${escapeHtml(name)}</td></tr>
@@ -97,18 +105,18 @@ export async function POST(req: Request) {
     </table>
   `;
 
-  try {
-    await transporter.sendMail({
+  // Respond immediately, send email in background
+  waitUntil(
+    getTransporter().sendMail({
       from: `"LOLEK Website" <${process.env.SMTP_USER}>`,
       to: process.env.CONTACT_EMAIL,
       replyTo: email,
       subject: `Contact form: ${escapeHtml(name)}`,
       html: htmlBody,
-    });
+    }).catch((err) => {
+      console.error("Email send failed:", err);
+    })
+  );
 
-    return NextResponse.json({ ok: true });
-  } catch (err) {
-    console.error("Email send failed:", err);
-    return NextResponse.json({ error: "Failed to send" }, { status: 500 });
-  }
+  return NextResponse.json({ ok: true });
 }
