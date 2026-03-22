@@ -1,6 +1,0 @@
-# Lolek Plumbing - robots.txt
-User-agent: *
-Allow: /
-
-# Sitemap
-Sitemap: https://lolek.plumbing/sitemap.xml
