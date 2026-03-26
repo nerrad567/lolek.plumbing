@@ -82,6 +82,18 @@ export default async function LangLayout({
 
   return (
     <html lang={lang} className={outfit.variable}>
+      <head>
+        <script
+          defer
+          data-domain="lolek.plumbing"
+          src="https://analytics.digital.graylogic.uk/js/pa-af03NJgYEoU4VP7FT1-QQ.js"
+        />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};plausible.init()`,
+          }}
+        />
+      </head>
       <body className="antialiased overflow-x-hidden">
         <a href="#home" className="sr-only focus:not-sr-only focus:absolute focus:z-[200] focus:bg-blue focus:text-white focus:p-4">
           Skip to content
