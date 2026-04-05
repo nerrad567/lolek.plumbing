@@ -44,7 +44,7 @@ export async function generateMetadata({
       siteName: "LOLEK Plumbing",
       images: [
         {
-          url: "https://www.lolek.plumbing/images/og-image.jpg",
+          url: "https://www.lolek.plumbing/images/ui/og-image.jpg",
           width: 1200,
           height: 630,
           alt: "LOLEK Plumbing — Colchester",
@@ -53,7 +53,7 @@ export async function generateMetadata({
     },
     twitter: {
       card: "summary_large_image",
-      images: ["https://www.lolek.plumbing/images/og-image.jpg"],
+      images: ["https://www.lolek.plumbing/images/ui/og-image.jpg"],
     },
     alternates: {
       canonical: lang === "en" ? "/" : `/${lang}`,

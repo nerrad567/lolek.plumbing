@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { Reveal } from "./AnimatedSection";
 import { Phone, MapPin } from "lucide-react";
 import { COMPANY, AREAS } from "@/lib/constants";
@@ -11,9 +12,16 @@ export default function ContactSection() {
   return (
     <section
       id="contact"
-      className="panel-bg noise vignette relative min-h-dvh scroll-mt-4 flex items-center pb-24 md:pb-0"
-      style={{ backgroundImage: "url(/images/backgrounds/bathroom.jpg)" }}
+      className="noise vignette relative min-h-dvh scroll-mt-4 flex items-center pb-24 md:pb-0 overflow-hidden"
     >
+      <Image
+        src="/images/backgrounds/bathroom.jpg"
+        alt=""
+        fill
+        sizes="100vw"
+        quality={75}
+        className="object-cover"
+      />
       <div className="absolute inset-0 overlay-dark" />
 
       <div className="relative z-10 w-full max-w-6xl mx-auto px-6 md:px-12 lg:px-20 py-20 md:py-28">

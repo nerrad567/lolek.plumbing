@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { Reveal, StaggerContainer } from "./AnimatedSection";
 import ServiceCard from "./ServiceCard";
 import { useLang } from "@/lib/LangContext";
@@ -12,9 +13,16 @@ export default function ServicesSection() {
   return (
     <section
       id="services"
-      className="panel-bg grain relative min-h-dvh scroll-mt-4 flex items-center"
-      style={{ backgroundImage: "url(/images/backgrounds/green_bg_pipes.jpg)" }}
+      className="grain relative min-h-dvh scroll-mt-4 flex items-center overflow-hidden"
     >
+      <Image
+        src="/images/backgrounds/green_bg_pipes.jpg"
+        alt=""
+        fill
+        sizes="100vw"
+        quality={75}
+        className="object-cover"
+      />
       <div className="absolute inset-0 overlay-green" />
 
       <div className="relative z-10 w-full max-w-6xl mx-auto px-6 md:px-12 lg:px-20 py-20 md:py-28">

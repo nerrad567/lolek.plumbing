@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { Reveal } from "./AnimatedSection";
 import { Phone, ChevronDown } from "lucide-react";
 import { COMPANY } from "@/lib/constants";
@@ -37,9 +38,17 @@ export default function HeroSection({ dict, features }: HeroSectionProps) {
   return (
     <section
       id="home"
-      className="panel-bg grain relative min-h-dvh scroll-mt-4 flex items-center"
-      style={{ backgroundImage: "url(/images/backgrounds/blue_bg_tap.jpg)" }}
+      className="grain relative min-h-dvh scroll-mt-4 flex items-center overflow-hidden"
     >
+      <Image
+        src="/images/backgrounds/blue_bg_tap.jpg"
+        alt=""
+        fill
+        priority
+        sizes="100vw"
+        quality={75}
+        className="object-cover"
+      />
       <div className="absolute inset-0 overlay-blue" />
 
       <div className="relative z-10 w-full max-w-6xl mx-auto px-6 md:px-12 lg:px-20">
