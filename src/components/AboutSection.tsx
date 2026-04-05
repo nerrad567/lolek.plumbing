@@ -83,7 +83,7 @@ export default function AboutSection() {
             <div className="relative hidden md:block">
               <Image
                 src="/images/ui/redsplash.jpg"
-                alt="Plumbing work"
+                alt={dict.imageAlt}
                 width={500}
                 height={600}
                 className="rounded-sm shadow-2xl shadow-black/50 object-cover photo-treatment border-2 border-light/5"

@@ -55,47 +55,48 @@
     "flexible": "Flexible Hours",
     "statsReviews": "5-star reviews",
     "statsCallout": "Call-out fee",
-    "cta": "View Services"
+    "cta": "View Services",
+    "imageAlt": "Gas Safe plumber at work — new radiator installation in Colchester, Essex"
   },
   "services": {
     "title": "Our Services",
     "boilers": {
       "title": "Boilers",
-      "desc": "Installation, repairs, servicing. All major brands. Gas Safe certified with warranty."
+      "desc": "New boiler installs, repairs and servicing. All major brands. Gas Safe certified."
     },
     "bathrooms": {
       "title": "Bathrooms",
-      "desc": "Full installations. Showers, wet rooms, suites. Design to completion."
+      "desc": "Full bathroom refits in Colchester — wet rooms, walk-in showers, tiling."
     },
     "heating": {
       "title": "Heating",
-      "desc": "Radiators, underfloor heating, power flushing. Full system upgrades."
+      "desc": "Central heating upgrades, radiators, underfloor heating and power flushing."
     },
     "smart": {
       "title": "Smart Controls",
-      "desc": "Hive, Nest, Tado. Wireless thermostats. Cut your energy bills."
+      "desc": "Hive, Nest, Tado smart thermostats fitted. Cut your heating bills."
     },
     "plumbing": {
       "title": "Plumbing",
-      "desc": "Leaks, taps, toilets, pipework. No job too small. Quick response."
+      "desc": "Emergency plumber Colchester — burst pipes, leaks, blocked drains. Same-day."
     },
     "landlord": {
       "title": "Landlord Certs",
-      "desc": "CP12 gas safety certificates. Same day issue. Great rates."
+      "desc": "CP12 gas safety certificates. Same-day issue for landlords and letting agents."
     }
   },
   "work": {
     "title": "Recent Projects",
     "reviewsTitle": "What Customers Say",
     "projects": {
-      "bathroom": { "title": "Bathroom Suites", "desc": "Full refit" },
-      "shower": { "title": "Shower Rooms", "desc": "Showers & wetrooms" },
-      "pipework": { "title": "Pipework", "desc": "New runs & repairs" },
-      "boiler": { "title": "Boiler Installs", "desc": "Gas Safe certified" },
-      "heating": { "title": "Heating Systems", "desc": "Radiators & underfloor" },
-      "finished": { "title": "Finished Work", "desc": "Job done" },
-      "more": { "title": "More Projects", "desc": "See the work" },
-      "quality": { "title": "Recent Job", "desc": "Colchester area" }
+      "bathroom": { "title": "Bathroom refit in Colchester", "desc": "Full suite installation" },
+      "shower": { "title": "Wet room & shower installation", "desc": "Walk-in and wet rooms" },
+      "pipework": { "title": "Central heating pipework", "desc": "New installs and repairs" },
+      "boiler": { "title": "Boiler installation, Essex", "desc": "Gas Safe certified" },
+      "heating": { "title": "Heating system upgrade", "desc": "Radiators and underfloor" },
+      "finished": { "title": "Bathroom renovation", "desc": "Finished to high standard" },
+      "more": { "title": "Plumbing project gallery", "desc": "Recent work across Essex" },
+      "quality": { "title": "Colchester plumbing work", "desc": "Recent local job" }
     }
   },
   "contact": {
@@ -116,6 +117,36 @@
       "success": "Message sent! Kris will get back to you soon.",
       "error": "Something went wrong. Please call instead."
     }
+  },
+  "faq": {
+    "title": "Questions answered",
+    "subtitle": "Before you pick up the phone",
+    "items": [
+      {
+        "q": "Do you charge a call-out fee?",
+        "a": "No — we don't charge to come out and look at a job. You only pay for the work that gets done, and every non-emergency visit comes with a free quote."
+      },
+      {
+        "q": "Are you Gas Safe registered?",
+        "a": "Yes. Kris is Gas Safe registered (number 657768) — fully certified to work on all domestic gas appliances including boilers, hobs, cookers and fires. You can verify the registration at gassaferegister.co.uk."
+      },
+      {
+        "q": "Do you cover emergencies like burst pipes or no hot water?",
+        "a": "Yes — same-day response for genuine emergencies across Colchester, Essex and the surrounding towns. Burst pipes, heating breakdowns, blocked drains and leaks. Call direct on 07549 251073 and we'll get to you as quickly as we can."
+      },
+      {
+        "q": "How much does a new boiler cost?",
+        "a": "A straightforward combi boiler swap typically starts from around £2,200 including installation, and a full system upgrade can run to £4,000–£5,500+ depending on the property. Every job is quoted for free after a site visit — no generic pricing."
+      },
+      {
+        "q": "Which areas do you cover?",
+        "a": "We're based in Colchester and cover Ipswich, Braintree, Witham, Chelmsford, Clacton, Harwich, Manningtree, Sudbury, Halstead, Tiptree and Wivenhoe as standard. If you're outside that list, give us a call — we're flexible on travel for the right job."
+      },
+      {
+        "q": "Do you work weekends?",
+        "a": "Yes — seven days a week, 7am to 10pm, with priority given to emergency call-outs. Evening and weekend rates are the same as weekday rates."
+      }
+    ]
   },
   "footer": {
     "rights": "All rights reserved."

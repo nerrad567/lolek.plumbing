@@ -20,6 +20,7 @@ const indexToNav: Record<number, string> = {
   3: "work",
   4: "work",
   5: "contact",
+  6: "contact",
 };
 
 const navToIndex: Record<string, number> = {
@@ -27,7 +28,7 @@ const navToIndex: Record<string, number> = {
   about: 1,
   services: 2,
   work: 3,
-  contact: 5,
+  contact: 6,
 };
 
 export default function Navigation() {

@@ -9,6 +9,7 @@ import AboutSection from "./AboutSection";
 import ServicesSection from "./ServicesSection";
 import ProjectsSection from "./ProjectsSection";
 import ReviewsSection from "./ReviewsSection";
+import FaqSection from "./FaqSection";
 import ContactSection from "./ContactSection";
 import Navigation from "./Navigation";
 import LanguageSwitcher from "./LanguageSwitcher";
@@ -136,6 +137,7 @@ export default function PageContent() {
         <ServicesSection />
         <ProjectsSection />
         <ReviewsSection reviews={reviews} />
+        <FaqSection />
         <div className="snap-last">
           <ContactSection />
           <Footer />

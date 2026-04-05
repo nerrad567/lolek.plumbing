@@ -55,47 +55,48 @@
     "flexible": "Elastyczne Godziny",
     "statsReviews": "5-gwiazdkowych opinii",
     "statsCallout": "Opłata za wyjazd",
-    "cta": "Zobacz Usługi"
+    "cta": "Zobacz Usługi",
+    "imageAlt": "Hydraulik Gas Safe przy pracy — montaż grzejnika w Colchester, Essex"
   },
   "services": {
     "title": "Nasze Usługi",
     "boilers": {
       "title": "Kotły",
-      "desc": "Instalacja, naprawy, serwis. Wszystkie główne marki. Certyfikat Gas Safe z gwarancją."
+      "desc": "Montaż nowych kotłów, naprawy i serwis. Wszystkie główne marki. Gas Safe."
     },
     "bathrooms": {
       "title": "Łazienki",
-      "desc": "Pełne instalacje. Prysznice, mokre pokoje, zestawy. Od projektu do realizacji."
+      "desc": "Pełne remonty łazienek w Colchester — mokre pokoje, prysznice, glazura."
     },
     "heating": {
       "title": "Ogrzewanie",
-      "desc": "Grzejniki, ogrzewanie podłogowe, płukanie. Pełne modernizacje systemów."
+      "desc": "Modernizacje centralnego ogrzewania, grzejniki, ogrzewanie podłogowe, płukanie."
     },
     "smart": {
       "title": "Inteligentne Sterowanie",
-      "desc": "Hive, Nest, Tado. Bezprzewodowe termostaty. Obniż rachunki za energię."
+      "desc": "Montaż inteligentnych termostatów Hive, Nest, Tado. Obniż rachunki."
     },
     "plumbing": {
       "title": "Hydraulika",
-      "desc": "Wycieki, krany, toalety, rury. Żadne zlecenie nie jest za małe. Szybka reakcja."
+      "desc": "Hydraulik awaryjny Colchester — pęknięte rury, wycieki, zatkane odpływy."
     },
     "landlord": {
       "title": "Certyfikaty",
-      "desc": "Certyfikaty bezpieczeństwa gazowego CP12. Wydanie tego samego dnia. Świetne ceny."
+      "desc": "Certyfikaty gazowe CP12. Wydanie tego samego dnia dla właścicieli i agencji."
     }
   },
   "work": {
     "title": "Ostatnie Projekty",
     "reviewsTitle": "Co Mówią Klienci",
     "projects": {
-      "bathroom": { "title": "Zestawy Łazienkowe", "desc": "Pełny remont" },
-      "shower": { "title": "Kabiny Prysznicowe", "desc": "Prysznice i mokre pokoje" },
-      "pipework": { "title": "Instalacje Rurowe", "desc": "Nowe i naprawy" },
-      "boiler": { "title": "Instalacje Kotłów", "desc": "Certyfikat Gas Safe" },
-      "heating": { "title": "Systemy Grzewcze", "desc": "Grzejniki i podłogowe" },
-      "finished": { "title": "Ukończone Prace", "desc": "Zrobione" },
-      "more": { "title": "Więcej Projektów", "desc": "Zobacz prace" },
-      "quality": { "title": "Ostatnie Zlecenie", "desc": "Okolice Colchester" }
+      "bathroom": { "title": "Remont łazienki w Colchester", "desc": "Pełna instalacja zestawu" },
+      "shower": { "title": "Montaż prysznica i mokrego pokoju", "desc": "Prysznice walk-in i wet rooms" },
+      "pipework": { "title": "Instalacje rurowe CO", "desc": "Nowe montaże i naprawy" },
+      "boiler": { "title": "Montaż kotła, Essex", "desc": "Certyfikat Gas Safe" },
+      "heating": { "title": "Modernizacja ogrzewania", "desc": "Grzejniki i ogrzewanie podłogowe" },
+      "finished": { "title": "Renowacja łazienki", "desc": "Wykończone na wysoki standard" },
+      "more": { "title": "Galeria projektów hydraulicznych", "desc": "Ostatnie prace w Essex" },
+      "quality": { "title": "Praca hydrauliczna w Colchester", "desc": "Ostatnie lokalne zlecenie" }
     }
   },
   "contact": {
@@ -116,6 +117,36 @@
       "success": "Wiadomość wysłana! Kris odezwie się wkrótce.",
       "error": "Coś poszło nie tak. Proszę zadzwonić."
     }
+  },
+  "faq": {
+    "title": "Pytania i odpowiedzi",
+    "subtitle": "Zanim chwycisz za telefon",
+    "items": [
+      {
+        "q": "Czy pobieracie opłatę za wyjazd?",
+        "a": "Nie — nie pobieramy opłaty za sam wyjazd i oględziny. Płacisz wyłącznie za wykonaną pracę, a każda wizyta w trybie bezawaryjnym obejmuje bezpłatną wycenę."
+      },
+      {
+        "q": "Czy jesteś zarejestrowany w Gas Safe?",
+        "a": "Tak. Kris jest zarejestrowany w Gas Safe (numer 657768) — w pełni uprawniony do pracy ze wszystkimi domowymi urządzeniami gazowymi: kotłami, płytami, kuchenkami i kominkami. Rejestrację można zweryfikować na gassaferegister.co.uk."
+      },
+      {
+        "q": "Czy obsługujecie nagłe wypadki, jak pęknięta rura lub brak ciepłej wody?",
+        "a": "Tak — reakcja tego samego dnia w prawdziwych nagłych wypadkach w Colchester, Essex i okolicznych miastach. Pęknięte rury, awarie ogrzewania, zatkane odpływy, wycieki. Zadzwoń bezpośrednio pod 07549 251073 i dotrzemy do Ciebie jak najszybciej."
+      },
+      {
+        "q": "Ile kosztuje nowy kocioł?",
+        "a": "Standardowa wymiana kotła combi zaczyna się od około £2,200 z instalacją, a pełna modernizacja systemu może wynieść £4,000–£5,500+ w zależności od nieruchomości. Każde zlecenie wyceniamy bezpłatnie po wizycie na miejscu — bez cen z cennika."
+      },
+      {
+        "q": "Jakie obszary obsługujecie?",
+        "a": "Mamy siedzibę w Colchester i standardowo obsługujemy Ipswich, Braintree, Witham, Chelmsford, Clacton, Harwich, Manningtree, Sudbury, Halstead, Tiptree i Wivenhoe. Jeśli jesteś poza tą listą, zadzwoń — jesteśmy elastyczni co do dojazdu dla właściwego zlecenia."
+      },
+      {
+        "q": "Czy pracujecie w weekendy?",
+        "a": "Tak — siedem dni w tygodniu, od 7:00 do 22:00, z priorytetem dla wezwań awaryjnych. Stawki wieczorne i weekendowe są takie same jak w dni powszednie."
+      }
+    ]
   },
   "footer": {
     "rights": "Wszelkie prawa zastrzeżone."

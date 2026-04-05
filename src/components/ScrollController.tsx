@@ -121,7 +121,7 @@ export default function ScrollController() {
     const hash = window.location.hash.replace("#", "");
     if (hash) {
       const sectionMap: Record<string, number> = {
-        home: 0, about: 1, services: 2, work: 3, reviews: 4, contact: 5,
+        home: 0, about: 1, services: 2, work: 3, reviews: 4, faq: 5, contact: 6,
       };
       const targetIndex = sectionMap[hash];
       if (targetIndex !== undefined && targetIndex > 0) {
