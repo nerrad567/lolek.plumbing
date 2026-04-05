@@ -65,7 +65,7 @@ const structuredData = JSON.stringify({
     value: "657768",
   },
   sameAs: [
-    "https://share.google/bIOM1gZZBme5GvhJX",
+    "https://www.google.com/search?kgmid=/g/11nz3mycd6",
   ],
   address: {
     "@type": "PostalAddress",

@@ -37,14 +37,7 @@ body {
   overflow-x: hidden;
 }
 
-/* ===== PANELS ===== */
-.panel-bg {
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  position: relative;
-}
-
+/* ===== DESKTOP SCROLL CONTAINER ===== */
 @media (min-width: 769px) {
   .snap-container {
     height: 100vh;
@@ -62,8 +55,6 @@ body {
     justify-content: center;
   }
   .snap-container .snap-last > section { min-height: 0; flex: none; }
-
-  .panel-bg { background-attachment: fixed; }
 }
 
 /* Overlays — stronger base opacity so text never fights the photo */
