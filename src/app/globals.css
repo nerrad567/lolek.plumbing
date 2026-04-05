@@ -66,21 +66,21 @@ body {
   .panel-bg { background-attachment: fixed; }
 }
 
-/* Overlays */
+/* Overlays — stronger base opacity so text never fights the photo */
 .overlay-blue {
-  background: radial-gradient(ellipse 70% 60% at 50% 50%, rgba(12,14,18,0.82) 0%, rgba(12,14,18,0.60) 50%, rgba(12,14,18,0.40) 100%);
+  background: radial-gradient(ellipse 70% 60% at 50% 50%, rgba(12,14,18,0.90) 0%, rgba(12,14,18,0.75) 50%, rgba(12,14,18,0.60) 100%);
 }
 .overlay-red {
-  background: linear-gradient(160deg, rgba(12,14,18,0.94) 0%, rgba(203,67,53,0.05) 50%, rgba(12,14,18,0.94) 100%);
+  background: linear-gradient(160deg, rgba(12,14,18,0.96) 0%, rgba(203,67,53,0.08) 50%, rgba(12,14,18,0.96) 100%);
 }
 .overlay-green {
-  background: linear-gradient(160deg, rgba(12,14,18,0.93) 0%, rgba(34,153,84,0.06) 50%, rgba(12,14,18,0.93) 100%);
+  background: linear-gradient(160deg, rgba(12,14,18,0.95) 0%, rgba(34,153,84,0.09) 50%, rgba(12,14,18,0.95) 100%);
 }
 .overlay-yellow {
-  background: linear-gradient(160deg, rgba(12,14,18,0.93) 0%, rgba(212,160,23,0.04) 50%, rgba(12,14,18,0.93) 100%);
+  background: linear-gradient(160deg, rgba(12,14,18,0.95) 0%, rgba(212,160,23,0.06) 50%, rgba(12,14,18,0.95) 100%);
 }
 .overlay-dark {
-  background: linear-gradient(160deg, rgba(12,14,18,0.92) 0%, rgba(12,14,18,0.80) 50%, rgba(12,14,18,0.92) 100%);
+  background: linear-gradient(160deg, rgba(12,14,18,0.94) 0%, rgba(12,14,18,0.85) 50%, rgba(12,14,18,0.94) 100%);
 }
 
 /* ===== INDUSTRIAL CARDS — solid, hard-edged ===== */

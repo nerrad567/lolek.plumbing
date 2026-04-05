@@ -24,14 +24,15 @@ export default function AboutSection() {
     >
       <div className="absolute inset-0 overlay-red" />
 
-      <div className="relative z-10 w-full max-w-6xl mx-auto px-8 md:px-20 py-20">
+      <div className="relative z-10 w-full max-w-6xl mx-auto px-6 md:px-12 lg:px-20 py-20 md:py-28">
         <div className="grid md:grid-cols-2 gap-14 items-center">
           <div>
             <Reveal>
-              <h2 className="text-3xl md:text-5xl font-black mb-2 tracking-tight uppercase">{dict.title}</h2>
+              <h2 className="text-4xl md:text-6xl font-black mb-3 tracking-tight uppercase">{dict.title}</h2>
+              <div className="w-12 h-0.5 bg-red mb-4" />
               <p className="text-blue font-semibold text-sm uppercase tracking-[0.2em] mb-8">{dict.subtitle}</p>
               <p className="text-light/90 mb-4 leading-relaxed">{dict.desc1}</p>
-              <p className="text-light/75 mb-8 leading-relaxed">{dict.desc2}</p>
+              <p className="text-light/80 mb-8 leading-relaxed">{dict.desc2}</p>
             </Reveal>
 
             <Reveal delay={0.15}>

@@ -16,13 +16,13 @@ export default function ContactSection() {
     >
       <div className="absolute inset-0 overlay-dark" />
 
-      <div className="relative z-10 w-full max-w-6xl mx-auto px-6 md:px-16 py-10">
+      <div className="relative z-10 w-full max-w-6xl mx-auto px-6 md:px-12 lg:px-20 py-20 md:py-28">
         <Reveal>
-          <h2 className="text-3xl md:text-4xl font-extrabold text-center mb-2 tracking-tight">
+          <h2 className="text-4xl md:text-6xl font-black mb-3 tracking-tight uppercase">
             {dict.title}
           </h2>
-          <div className="w-12 h-1 bg-blue mx-auto rounded-full mb-2" />
-          <p className="text-center text-white/50 text-sm max-w-md mx-auto mb-8">
+          <div className="w-12 h-0.5 bg-blue mb-6" />
+          <p className="text-light/80 text-base max-w-xl mb-10">
             {dict.intro}
           </p>
         </Reveal>
@@ -32,26 +32,26 @@ export default function ContactSection() {
             <div className="space-y-3">
               <a
                 href={COMPANY.phoneHref}
-                className="flex items-center gap-4 bg-blue hover:bg-blue-dark text-white rounded-xl p-4 transition-all duration-300 hover:shadow-lg hover:shadow-blue/20"
+                className="flex items-center gap-4 bg-blue hover:bg-blue-dark text-light rounded-sm p-5 transition-colors border-2 border-blue"
               >
                 <Phone size={22} />
                 <div>
-                  <p className="font-bold">{dict.calltext}</p>
-                  <p className="text-white/80 text-lg font-extrabold">{COMPANY.phone}</p>
+                  <p className="font-bold text-xs uppercase tracking-[0.2em]">{dict.calltext}</p>
+                  <p className="text-light text-xl font-black tracking-wider">{COMPANY.phone}</p>
                 </div>
               </a>
 
-              <div className="glass-strong rounded-xl p-4 flex items-center gap-4">
+              <div className="card-solid-light p-4 flex items-center gap-4">
                 <MapPin size={18} className="text-green shrink-0" />
-                <p className="text-white/70 text-sm">{dict.based} &bull; {dict.location}</p>
+                <p className="text-light/80 text-sm">{dict.based} &bull; {dict.location}</p>
               </div>
 
-              <div className="glass-strong rounded-xl p-4">
-                <p className="font-bold text-xs uppercase tracking-wider text-white/50 mb-2">{dict.areasTitle}</p>
-                <p className="text-sm text-white/60 leading-relaxed">
+              <div className="card-solid-light p-4">
+                <p className="font-bold text-xs uppercase tracking-[0.2em] text-light/75 mb-2">{dict.areasTitle}</p>
+                <p className="text-sm text-light/80 leading-relaxed">
                   {AREAS.join(" \u00B7 ")}
                 </p>
-                <p className="text-xs text-white/30 mt-2">{dict.areasNote}</p>
+                <p className="text-xs text-light/55 mt-2">{dict.areasNote}</p>
               </div>
             </div>
           </Reveal>

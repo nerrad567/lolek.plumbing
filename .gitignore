@@ -22,3 +22,8 @@ next-env.d.ts
 
 # vercel
 .vercel
+
+# local test artefacts
+.playwright-mcp/
+desktop-*.png
+mobile-*.png

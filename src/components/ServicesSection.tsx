@@ -17,12 +17,12 @@ export default function ServicesSection() {
     >
       <div className="absolute inset-0 overlay-green" />
 
-      <div className="relative z-10 w-full max-w-5xl mx-auto px-8 md:px-20 py-20">
+      <div className="relative z-10 w-full max-w-6xl mx-auto px-6 md:px-12 lg:px-20 py-20 md:py-28">
         <Reveal>
-          <h2 className="text-3xl md:text-5xl font-black mb-2 tracking-tight uppercase">
+          <h2 className="text-4xl md:text-6xl font-black mb-3 tracking-tight uppercase">
             {services.title}
           </h2>
-          <div className="w-12 h-0.5 bg-green mb-12" />
+          <div className="w-12 h-0.5 bg-green mb-10" />
         </Reveal>
 
         <StaggerContainer className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">

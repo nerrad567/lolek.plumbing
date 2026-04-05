@@ -42,7 +42,7 @@ export default function HeroSection({ dict, features }: HeroSectionProps) {
     >
       <div className="absolute inset-0 overlay-blue" />
 
-      <div className="relative z-10 w-full max-w-5xl mx-auto px-8 md:px-20">
+      <div className="relative z-10 w-full max-w-6xl mx-auto px-6 md:px-12 lg:px-20">
         <Reveal>
           <p className="text-muted uppercase tracking-[0.4em] text-xs font-medium mb-6">
             {dict.tagline}
@@ -51,7 +51,7 @@ export default function HeroSection({ dict, features }: HeroSectionProps) {
           <h1 className="leading-none mb-5">
             <span className="text-5xl md:text-7xl lg:text-8xl font-black tracking-tighter text-blue uppercase">LOLEK</span>
             <span className="text-5xl md:text-7xl lg:text-8xl font-black text-red">.</span>
-            <span className="text-3xl md:text-4xl lg:text-5xl font-light tracking-wide text-light/40 lowercase">plumbing</span>
+            <span className="text-3xl md:text-4xl lg:text-5xl font-light tracking-wide text-light/75 drop-shadow-sm lowercase">plumbing</span>
           </h1>
 
           <p className="text-lg md:text-xl text-light font-medium mb-3 uppercase tracking-wider">
@@ -65,10 +65,18 @@ export default function HeroSection({ dict, features }: HeroSectionProps) {
 
           <a
             href={COMPANY.phoneHref}
-            className="inline-block text-3xl md:text-4xl font-black text-light mb-8 hover:text-blue transition-colors tracking-wider"
+            className="inline-block text-3xl md:text-4xl font-black text-light mb-5 hover:text-blue transition-colors tracking-wider"
           >
             {COMPANY.phone}
           </a>
+
+          <div className="flex flex-wrap items-center gap-x-4 gap-y-2 text-[10px] md:text-xs uppercase tracking-[0.2em] text-light/70 mb-8">
+            <span className="font-bold">Gas Safe</span>
+            <span className="text-light/25">/</span>
+            <span className="font-bold">55★ Reviews</span>
+            <span className="text-light/25">/</span>
+            <span className="font-bold">No Call-Out Fee</span>
+          </div>
         </Reveal>
 
         <Reveal delay={0.2}>
@@ -102,7 +110,7 @@ export default function HeroSection({ dict, features }: HeroSectionProps) {
                   className="absolute inset-0 flex flex-col justify-center px-5"
                 >
                   <h3 className="font-bold text-blue text-sm uppercase tracking-wider">{features[featureIndex].title}</h3>
-                  <p className="text-xs text-light/60 mt-1 leading-relaxed">{features[featureIndex].desc}</p>
+                  <p className="text-xs text-light/80 mt-1 leading-relaxed">{features[featureIndex].desc}</p>
                 </motion.div>
               </AnimatePresence>
             </div>

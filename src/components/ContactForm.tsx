@@ -76,7 +76,7 @@ export default function ContactForm({ dict }: ContactFormProps) {
             key="success"
             initial={{ opacity: 0, scale: 0.95 }}
             animate={{ opacity: 1, scale: 1 }}
-            className="card-solid p-10 text-center"
+            className="card-solid p-6 text-center"
           >
             <motion.div
               initial={{ scale: 0 }}
@@ -115,6 +115,7 @@ export default function ContactForm({ dict }: ContactFormProps) {
             <input
               name="phone"
               type="tel"
+              required
               placeholder={dict.phone}
               disabled={status !== "idle" && status !== "error"}
               className="w-full bg-light/5 border border-light/8 rounded-sm px-4 py-3.5 text-light text-sm placeholder:text-light/25 focus:outline-none focus:border-blue/50 transition-all disabled:opacity-50"

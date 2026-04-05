@@ -15,12 +15,12 @@ export default function ReviewsSection({ reviews }: { reviews: Review[] }) {
     >
       <div className="absolute inset-0 overlay-yellow" />
 
-      <div className="relative z-10 w-full max-w-6xl mx-auto px-6 md:px-16 py-14">
+      <div className="relative z-10 w-full max-w-6xl mx-auto px-6 md:px-12 lg:px-20 py-20 md:py-28">
         <Reveal>
-          <h2 className="text-4xl md:text-5xl font-extrabold text-center mb-4 tracking-tight">
+          <h2 className="text-4xl md:text-6xl font-black mb-3 tracking-tight uppercase">
             {title}
           </h2>
-          <div className="w-16 h-1 bg-yellow mx-auto rounded-full mb-8" />
+          <div className="w-12 h-0.5 bg-yellow mb-10" />
         </Reveal>
 
         <StaggerContainer className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">

@@ -7,7 +7,7 @@ export default function GasSafeBadge() {
       href={COMPANY.gasSafeUrl}
       target="_blank"
       rel="noopener noreferrer"
-      className="fixed top-3 right-28 z-40 hidden md:block transition-transform hover:scale-105"
+      className="fixed top-3 right-16 md:right-28 z-40 transition-transform hover:scale-105"
       aria-label="Gas Safe Registered"
     >
       <Image
@@ -15,7 +15,7 @@ export default function GasSafeBadge() {
         alt="Gas Safe Registered"
         width={394}
         height={428}
-        className="w-[80px] h-auto"
+        className="w-[54px] md:w-[80px] h-auto drop-shadow-lg"
         priority
       />
     </a>

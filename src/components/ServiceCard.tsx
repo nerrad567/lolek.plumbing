@@ -50,13 +50,13 @@ export default function ServiceCard({ serviceKey, title, desc }: ServiceCardProp
         },
       }}
       whileHover={{ x: 4, transition: { duration: 0.15 } }}
-      className={`card-solid border-l-2 ${accent} p-5 cursor-default`}
+      className={`card-solid border-l-2 ${accent} p-6 cursor-default`}
     >
       <div className="flex items-start gap-4">
-        <Icon size={24} className="text-light/50 shrink-0 mt-0.5" />
+        <Icon size={28} className="text-blue shrink-0 mt-0.5" />
         <div>
           <h3 className="text-sm font-bold uppercase tracking-wider mb-1">{title}</h3>
-          <p className="text-xs text-light/50 leading-relaxed">{desc}</p>
+          <p className="text-xs text-light/75 leading-relaxed">{desc}</p>
         </div>
       </div>
     </motion.div>
