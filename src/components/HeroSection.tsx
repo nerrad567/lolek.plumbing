@@ -37,7 +37,7 @@ export default function HeroSection({ dict, features }: HeroSectionProps) {
   return (
     <section
       id="home"
-      className="panel-bg grain relative min-h-screen flex items-center"
+      className="panel-bg grain relative min-h-dvh scroll-mt-4 flex items-center"
       style={{ backgroundImage: "url(/images/backgrounds/blue_bg_tap.jpg)" }}
     >
       <div className="absolute inset-0 overlay-blue" />

@@ -11,7 +11,7 @@ export default function ContactSection() {
   return (
     <section
       id="contact"
-      className="panel-bg noise vignette relative min-h-screen flex items-center"
+      className="panel-bg noise vignette relative min-h-dvh scroll-mt-4 flex items-center pb-24 md:pb-0"
       style={{ backgroundImage: "url(/images/backgrounds/bathroom.jpg)" }}
     >
       <div className="absolute inset-0 overlay-dark" />

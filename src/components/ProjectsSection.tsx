@@ -11,7 +11,7 @@ export default function ProjectsSection() {
   return (
     <section
       id="work"
-      className="panel-bg noise vignette relative min-h-screen flex items-center"
+      className="panel-bg noise vignette relative min-h-dvh scroll-mt-4 flex items-center"
       style={{ backgroundImage: "url(/images/backgrounds/yellow_bg_bathroom.jpg)" }}
     >
       <div className="absolute inset-0 overlay-yellow" />

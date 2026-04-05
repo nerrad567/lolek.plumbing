@@ -19,7 +19,7 @@ export default function AboutSection() {
   return (
     <section
       id="about"
-      className="panel-bg grain relative min-h-screen flex items-center"
+      className="panel-bg grain relative min-h-dvh scroll-mt-4 flex items-center"
       style={{ backgroundImage: "url(/images/backgrounds/red_bg_bathroom.jpg)" }}
     >
       <div className="absolute inset-0 overlay-red" />

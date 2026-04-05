@@ -12,7 +12,7 @@ export default function ServicesSection() {
   return (
     <section
       id="services"
-      className="panel-bg grain relative min-h-screen flex items-center"
+      className="panel-bg grain relative min-h-dvh scroll-mt-4 flex items-center"
       style={{ backgroundImage: "url(/images/backgrounds/green_bg_pipes.jpg)" }}
     >
       <div className="absolute inset-0 overlay-green" />
