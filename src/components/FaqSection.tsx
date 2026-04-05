@@ -5,13 +5,7 @@ import { ChevronDown } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Reveal } from "./AnimatedSection";
 import { useLang } from "@/lib/LangContext";
-
-// Escape `<` to prevent any `</script>` breakout when embedding JSON-LD
-// inside a <script> tag. Content originates from the bundled JSON dict,
-// which is trusted, but defense-in-depth is cheap.
-function serializeJsonLd(data: unknown): string {
-  return JSON.stringify(data).replace(/</g, "\\u003c");
-}
+import { serializeJsonLd } from "@/lib/json-ld";
 
 export default function FaqSection() {
   const { dict } = useLang();

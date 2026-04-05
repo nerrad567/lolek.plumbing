@@ -113,8 +113,11 @@ export async function POST(req: Request) {
       replyTo: email,
       subject: `Contact form: ${escapeHtml(name)}`,
       html: htmlBody,
-    }).catch((err) => {
-      console.error("Email send failed:", err);
+    }).catch((err: unknown) => {
+      // Log message only — full err object can contain SMTP auth details
+      // (e.g. Nodemailer surfaces attempted credentials in 535 errors)
+      const message = err instanceof Error ? err.message : String(err);
+      console.error("Email send failed:", message);
     })
   );
 

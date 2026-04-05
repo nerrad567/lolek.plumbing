@@ -4,6 +4,7 @@ import { useLang } from "@/lib/LangContext";
 import { reviews as allReviews } from "@/lib/reviews";
 import { COMPANY } from "@/lib/constants";
 import { useMemo } from "react";
+import { serializeJsonLd } from "@/lib/json-ld";
 import HeroSection from "./HeroSection";
 import AboutSection from "./AboutSection";
 import ServicesSection from "./ServicesSection";
@@ -47,7 +48,7 @@ const services = [
   },
 ];
 
-const structuredData = JSON.stringify({
+const structuredData = serializeJsonLd({
   "@context": "https://schema.org",
   "@type": "Plumber",
   "@id": BUSINESS_ID,
@@ -113,7 +114,8 @@ const structuredData = JSON.stringify({
 
 export default function PageContent() {
   const { dict } = useLang();
-  // Use a fixed slice to avoid hydration mismatch from random shuffle
+  // Stable slice — do not randomise here. Random order would differ between
+  // server and client renders and trigger a hydration mismatch.
   const reviews = useMemo(() => allReviews.slice(0, 9), []);
 
   const features = useMemo(() => [

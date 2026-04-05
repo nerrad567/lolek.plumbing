@@ -13,13 +13,18 @@ const icons = {
   contact: Phone,
 } as const;
 
+// Section order in PageContent:
+//   0 Hero, 1 About, 2 Services, 3 Projects, 4 Reviews, 5 FAQ, 6 Contact+Footer
+// The nav rail only has icons for home/about/services/work/contact — Reviews
+// and FAQ have no dedicated button, so they keep "work" active until Contact
+// becomes visible at index 6. This prevents the Contact highlight firing early.
 const indexToNav: Record<number, string> = {
   0: "home",
   1: "about",
   2: "services",
   3: "work",
   4: "work",
-  5: "contact",
+  5: "work",
   6: "contact",
 };
 
